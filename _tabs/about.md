@@ -41,7 +41,7 @@ gantt
 ```
 
 ## Protocols I'm into right now:
-- Aztec
+- Aztec 
 - RISC Zero
 - Nexus
 - Talent Protocol V2

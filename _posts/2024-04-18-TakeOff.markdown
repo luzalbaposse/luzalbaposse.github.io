@@ -5,7 +5,7 @@ categories: [Traveling, Scholarships]
 tags: [devconnect, ethereum, tech]
 ---
 
-About 6 weeks ago, I applied to [Take Off Istanbul](https://takeoff.talentprotocol.com/), the Talent Protocol scholarship program sponsored by Protocol Labs and Celo Europe that enables builders from around the world to attend international conferences. About 5 weeks ago, I received news that could change everything: I got into the program. Three weeks later, I had to board a plane, travel +13 hours to the other side of the world, leave the country alone, and even more challenging, leave the continent for the first time in my life. Initially, the excitement was there, but something was missing. [Santiago Nihany](undefined) had also applied and we were willing to go together, but this time, he secured the 12th position, while only the top 10 were supposed to travel.
+About 6 weeks ago, I applied to [Take Off Istanbul](https://takeoff.talentprotocol.com/), the Talent Protocol scholarship program sponsored by Protocol Labs and Celo Europe that enables builders from around the world to attend international conferences. About 5 weeks ago, I received news that could change everything: I got into the program. Three weeks later, I had to board a plane, travel +13 hours to the other side of the world, leave the country alone, and even more challenging, leave the continent for the first time in my life. Initially, the excitement was there, but something was missing. Santi Nihany had also applied and we were willing to go together, but this time, he secured the 12th position, while only the top 10 were supposed to travel.
 
 As fate would have it, a second call for applications was opened. He applied again and got in. Up to that point, I was unsure about whether to go or not, but suddenly, we both embraced the idea of attending **Devconnect**, one of the largest **Ethereum** events in the world. I think nothing explains the vertigo and the eagerness to have everything ready that we experienced during those weeks: planning a trip to the other side of the world in less than 15 days. Booking flights, getting everything ready, preparing exams, coordinating with professors for the fact that we wouldn’t be in classes for 2 weeks.
 
@@ -30,48 +30,32 @@ I mean, Istanbul is a city steeped in history, is a captivating blend of ancient
 
 After walking several blocks and reaching the Galata Tower with Santi, Matute, and Alejo, we decided to head back to the hostel to meet up with the Talent team and the rest of the scholars. It was time for the welcome dinner.
 
-![Scholars and Talent Protocol Team at the Welcome Dinner](https://cdn-images-1.medium.com/max/2560/1*L-oGbKxSqf3VuFis6ozI9Q.jpeg)
-
 Arriving there, we couldn’t believe our eyes. The view was simply breathtaking: the Bosphorus lay right at the edge of the table. Suddenly, we found ourselves engaged in conversations with people from all corners of the globe: Anastasia, with roots in Russia, came from Germany; George, also from Germany; the fantastic group of Mexicans (Latinos power!); people from Asia; and Lisbon was well represented, as many members of the Talent team hailed from there.
 
 The initial cultural exchange was amazing. The first questions always revolved around, *“How did you get into blockchain? Why are you here?”* I’ve always cherished my response. When I heard Vitalik describe Ethereum as a protocol for human coordination, I was spellbound. Initially from a philosophical standpoint and later fueled by intrigue about why and how all of this was technically possible. Today, I’m fascinated by the prospect of building products and technology that can genuinely make an impact.
 
 I believe the best part of the scholarship was precisely that: connecting with people from all walks of life, each with their unique perspectives and ways of viewing the world. I am convinced that the more diverse and varied inputs we gather as builders, the better the outputs we can achieve.
 
-Special applause to Tolga, the mastermind behind selecting our venues, and [Juampi.eth](undefined), the one who ensured we were always on the move smoothly. The dinner was simply incredible — the view, the food, the people — everything was flawless.
+Special applause to Tolga, the mastermind behind selecting our venues, and Juampi the one who ensured we were always on the move smoothly. The dinner was simply incredible — the view, the food, the people — everything was flawless.
 
 Monday was a day of many things. Starting the day early, we set out for a day of sightseeing with Alejo, Matute, Juampi, and Santi. The goal was to reach the mosques and the Grand Bazaar, our first glimpse of the city. The bustling streets and markets unfolded before us, offering a vivid introduction to the cultural tapestry of Istanbul. As we navigated our way through the city, the minarets of the mosques stood tall against the skyline, a testament to the rich history embedded in every corner.
 
-![Juampi, Alejo, Santi and I](https://cdn-images-1.medium.com/max/3580/1*-NAhq-Kf_4LTPeghVLgOzQ.png)
-
 For our good fortune, Istanbul is a very rainy city, so a bit of water couldn’t be missing from our journey. It started to rain, and we enjoyed a gray day in the city.
-
-![Blue Mosque](https://cdn-images-1.medium.com/max/6048/1*GWg54KYWUkSs8kTTHhkLkw.png)
 
 The way back was tricky. We were waiting for a bus on the other side of the bridge, but none of them stopped (weird). We waited for a while, getting quite wet (because of the storm), and after asking a local, we found out the issue: that was actually the end of the route!!! We laughed a bit and ended up at the correct stop. That’s how we got back to the hostel to dry off and get ready for [LabWeek Summit](https://22.labweek.io/), the [Protocol Labs](https://protocol.ai/) event.
 
 After navigating through the rain-soaked streets of Istanbul, we found ourselves at a breathtaking hotel with a view of the Bosphorus for the LabWeek Summit. The venue, Swissotel Bosphorus Hotel, set the stage for collaboration and breakthroughs. As part of the experience, we attended PL Summit 23, where key speakers, including CEO Juan Benet, provided insights into the vision for the Protocol Labs network.
 
-![Scholars at LabWeek23](https://cdn-images-1.medium.com/max/3936/1*rimvMkA3xY6MAmD0Fir9tg.png)
-
 It was an opportunity to connect with the community and witness firsthand the advancements and discussions shaping the future of computing (and eat really tasty food). After that, we headed to another venue that personally fascinated me: it resembled a refurbished Roman ruin turned into an event space.
-
-![Protocol Labs Opening Party Venue](https://cdn-images-1.medium.com/max/3564/1*mBFERvgkbVSAJJHOq9L0Dg.png)
 
 There, something unexpected occurred — Juan Benet (CEO of Protocol Labs) approached the scholars to engage in a conversation that lasted around 1 hour, delving into the future of Protocol Labs. One of the questions he posed was about our interests and current pursuits. I shared that I’m currently working in a neuroscience laboratory, expressing my excitement about learning how humans behave. Specifically, I’m eager to explore the intersection between building better governance systems, blockchain, and understanding how we make improved societal decisions.
 
 In this conversation, a key learning of the week emerged. Santi asked why IPFS has “interplanetary” in its name. Juan responded with something along the lines of:
 >  When you think about that level of complexity, you solve smaller problems.
 
-![Juan Benet, Simon Puebla, Santi and I](https://cdn-images-1.medium.com/max/2000/1*Gah2_gbGBZUmM05fiRnzsw.png)
-
 Tuesday started early for me. I had made a commitment to keep up with university, so Santi and I decided to wake up early to make progress on our school work. The terrace of Wabi Sabi was a perfect spot for this, coupled with the fantastic breakfast that awaited us every morning.
 
-![School work at Wabi Sabi](https://cdn-images-1.medium.com/max/2000/1*lJVWc4Iq4w7jwZGfcZv_dw.png)
-
 The plan for the day was to start studying, and after breakfast, head to the Devconnect co-working space to delve further into our school work while surrounded by more people from the ecosystem. Additionally, that day marked the beginning of our thoughts about the upcoming weekend’s hackathon.
-
-![Santi and I arriving to Devconnect](https://cdn-images-1.medium.com/max/2000/1*UiL6yYlt6BwzeKP0qPirjA.png)
 
 Furthermore, it was a day to attend a new event. On Tuesday, *Abstract* took place, a conference centered around the topic of Account Abstraction and related subjects. Along with Santi, we had earmarked two talks/workshops that interested us: one on account abstraction with Aztec sandbox, led by Josh, one of the devrels at Aztec, and another titled Account Abstractions for real (and 3 reasons why I’m afraid to use it today) by Marcin Michalski, Chief Protocol Architect at Matter Labs.
 
@@ -80,8 +64,6 @@ The first session on account abstraction with the Aztec Sandbox was practical, p
 The thing is that Aztec uses a UTXO model. The core of any transaction will be a *Note *and their state is managed by a *Note Registry *for any given asset.
 
 The user’s balance of any aztec asset is made up of the sum of all of the valid notes their address owns in a given Note Registry.
-
-![Josh’s Workshop at Abstract](https://cdn-images-1.medium.com/max/2000/1*0qRjYUuSMavaej7t9xOtYw.png)
 
 The second talk, focused on broader and more reflective aspects of account abstraction, offering perspectives and addressing some fundamental concerns:
 
@@ -93,7 +75,7 @@ The second talk, focused on broader and more reflective aspects of account abstr
 
 What we need in account abstraction, according to Marcin, is **easy migration**, **clear criteria** and **emergency exit plans.**
 
-To understand what happened in the last hours of that day, I have to mention Palla ([Santiago Palladino](undefined), or Santi, or Palla — call him what you will), one of the most crucial figures of the week. A few days before the start of the Devconnect week, Santi P. added us to a group of Argentinians who would also be there that week. This led to an invitation to **frENS**, an event on a terrace hosted by POAP and ENS. Along with Santi N., we went there and enjoyed meeting a lot of people, particularly many Argentinians who are making waves in different protocols (which completely blew our minds). Something that started happening that afternoon is that suddenly, talking with people we greatly admire became normalized. Suddenly, our role models become real people, and they were literally next to us.
+To understand what happened in the last hours of that day, I have to mention Palla, or Santi, or Palla — call him what you will), one of the most crucial figures of the week. A few days before the start of the Devconnect week, Santi P. added us to a group of Argentinians who would also be there that week. This led to an invitation to **frENS**, an event on a terrace hosted by POAP and ENS. Along with Santi N., we went there and enjoyed meeting a lot of people, particularly many Argentinians who are making waves in different protocols (which completely blew our minds). Something that started happening that afternoon is that suddenly, talking with people we greatly admire became normalized. Suddenly, our role models become real people, and they were literally next to us.
 
 ![Santi and I at frENS](https://cdn-images-1.medium.com/max/3560/1*BwEJwLyvMREDzVwpppEfdA.png)
 
@@ -480,7 +462,7 @@ If you’ve read this far, I hope that my experience serves you in some way. Tha
 
 ![](https://cdn-images-1.medium.com/max/2000/1*cVY4Y5LLZsTyRQ1usUj6Ow.png)
 
-Lastly, but not least, I want to thank you, [Santiago Nihany](undefined), for allowing me to experience this journey with you. Not only are you the best person on the planet, but also my favorite and the one I admire the most. I believe that our ability to work together in hackathons extends to everything: communicating effectively, having patience to each other, and finding the right words all the time. I hope we always find ourselves like this, building things wherever we go. Love you to the moon and back. I am fortunate to have you close.
+Lastly, but not least, I want to thank you, Santi Nihany, for allowing me to experience this journey with you. Not only are you the best person on the planet, but also my favorite and the one I admire the most. I believe that our ability to work together in hackathons extends to everything: communicating effectively, having patience to each other, and finding the right words all the time. I hope we always find ourselves like this, building things wherever we go. Love you to the moon and back. I am fortunate to have you close.
 
 Keep building folks.
 
