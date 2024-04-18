@@ -9,6 +9,56 @@ comments: true
 ---
 > This article is not finished yet, but here are some of my notes while learning zk computation. If you find anything that is wrong, please reach out!
 
+**TD;LR**
+
+```mermaid
+
+graph TD
+    zk[Zero Knowledge Computation]
+    preface(Preface: Privacy in Web3)
+    zk_proof(Zero-Knowledge Proof)
+    mpc(Multi-Party Computation)
+    zk_rollups(ZK Rollups)
+    mpc_basic(Basic Concept of MPC)
+    zk_basic(Basic Concept of ZK Proof)
+    zk_intermediate(Intermediate ZK Proof)
+    zk_complex(Complex ZK Proof)
+    mpc_intermediate(Intermediate MPC)
+    mpc_complex(Complex MPC)
+    comparison(Differences: MPC vs ZK Rollups)
+    purpose(Purpose and Application)
+    privacy(Data Privacy and Computation)
+    integration(Blockchain Integration)
+    mpc_purpose(MPC: Secure Computation)
+    zk_purpose(ZK-Rollups: Scaling & Efficiency)
+    mpc_privacy(MPC: Input Privacy)
+    zk_privacy(ZK-Rollups: Aggregate Validity)
+    mpc_integration(MPC: Smart Contracts & Consensus)
+    zk_integration(ZK-Rollups: Scalability Solution)
+
+    zk --> preface
+    preface --> zk_proof
+    preface --> mpc
+    zk_proof -->|Simplified with analogies| zk_basic
+    zk_proof --> zk_intermediate
+    zk_proof --> zk_complex
+    mpc -->|Simplified with analogies| mpc_basic
+    mpc --> mpc_intermediate
+    mpc --> mpc_complex
+    zk --> comparison
+    comparison --> purpose
+    comparison --> privacy
+    comparison --> integration
+    purpose --> mpc_purpose
+    purpose --> zk_purpose
+    privacy --> mpc_privacy
+    privacy --> zk_privacy
+    integration --> mpc_integration
+    integration --> zk_integration
+
+
+```
+
 # Preface
 
 The **privacy** aspect is a recent hot topic in the web3 ecosystem. It's evident that for a blockchain to be genuinely effective, it needs not just security, speed, adoption, and interoperability, but also privacy. Currently, most blockchains provide a *pseudonymous identity*, but this approach falls short.
