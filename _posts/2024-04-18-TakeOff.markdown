@@ -1,0 +1,491 @@
+---
+title: Notes on my Take Off Istanbul Experience
+date: 2023-11-18 10:30:00 +0200
+categories: [Traveling, Scholarships]
+tags: [devconnect, ethereum, tech]
+---
+
+About 6 weeks ago, I applied to [Take Off Istanbul](https://takeoff.talentprotocol.com/), the Talent Protocol scholarship program sponsored by Protocol Labs and Celo Europe that enables builders from around the world to attend international conferences. About 5 weeks ago, I received news that could change everything: I got into the program. Three weeks later, I had to board a plane, travel +13 hours to the other side of the world, leave the country alone, and even more challenging, leave the continent for the first time in my life. Initially, the excitement was there, but something was missing. [Santiago Nihany](undefined) had also applied and we were willing to go together, but this time, he secured the 12th position, while only the top 10 were supposed to travel.
+
+As fate would have it, a second call for applications was opened. He applied again and got in. Up to that point, I was unsure about whether to go or not, but suddenly, we both embraced the idea of attending **Devconnect**, one of the largest **Ethereum** events in the world. I think nothing explains the vertigo and the eagerness to have everything ready that we experienced during those weeks: planning a trip to the other side of the world in less than 15 days. Booking flights, getting everything ready, preparing exams, coordinating with professors for the fact that we wouldn’t be in classes for 2 weeks.
+
+We decided to amplify the adventure: we were going to fly from Buenos Aires to Barcelona, where Sarah opened the doors of the UAB’s Vila Universitaria for us to stay. Then, we flew to Luxembourg, where Paco welcomed us along with Mumi and Bauti. But these two experiences are for another article. Let’s talk about Istanbul.
+
+The journey started on November 6th, with stops in between; on November 12th, we arrived in Istanbul from Brussels. We had the check-in at Wabi Sabi (the incredible hostel Tolga booked) around 2 pm, arrived around 3 pm, and took a shuttle from the airport to get there.
+
+First experience in Turkey: we were told that it might be useful to buy the Istanbul Card for public transport. Someone at the airport explained that if we went down a staircase, we would find a **yellow** place where we could buy it. We saw a **red** place selling cards, went there anyway. They offered us a promotion: the card with 10 trips and shuttle tickets to Taksim (which is one of the main squares and was very close to the hostel) for only $25 USD!! Santi and I thought, “Okay, the card can be recharged later, it’s enough for the whole week.” And that’s how our $25 went down the drain, as compared to the rest of the scholars: no one had spent that much on a Turkish version of the Argentine SUBE card.
+>  Moral of the story: don’t trust anyone.
+
+![Santi and I at IST Airport](https://cdn-images-1.medium.com/max/8064/1*jDyeYQaVicmhWve28OPeaA.png)
+
+When we got off the shuttle in Taksim, we walked our first two blocks in the city. The initial impression was: where did we get ourselves into, but as we walked, we started to find its charm. On one corner, we ran into Matute and Alejo, 2 of the 5 Argentines in the scholarship. Those moments happen where the brain only thinks: “what are the chances”. They told us the hostel was two blocks away; we continued, settled into our room, and began to reflect on everything that was happening.
+
+The plan for Sunday was to drop off our luggage, perhaps take a stroll, and then we had a welcome dinner hosted by the Talent team at one of the restaurants with the best view of the city.
+
+![Me in an Istanbul gallery during our first walk around there.](https://cdn-images-1.medium.com/max/2016/1*IBHH_BvYH7QWCgUsgfwv7g.png)
+
+The initial impressions of the city were peculiar: the streets were crowded with people everywhere. The tram passed through the middle of the street where people walked, without safety barriers and with cars on the tracks. Turkish flags were displayed everywhere, and in the main square, a continuous political propaganda video played. What a place, huh? Everything was extremely new and exciting for someone viewing it with Western eyes; the cultural shock was felt, but it’s an absolutely incredible city.
+
+I mean, Istanbul is a city steeped in history, is a captivating blend of ancient tales and modern life. With its roots tracing back to the Roman, Byzantine, and Ottoman empires, every street and landmark whispers stories of centuries gone by. From the majestic Hagia Sophia to the markets, the city stands as a living testament to its rich heritage. The fusion of East and West, embodied in its architecture and culture, makes Istanbul a truly unique and historically significant destination. Each part of the city feels like a journey through time, revealing the layers of a fascinating past that continue to shape the city’s vibrant present. It was just, amazing.
+
+After walking several blocks and reaching the Galata Tower with Santi, Matute, and Alejo, we decided to head back to the hostel to meet up with the Talent team and the rest of the scholars. It was time for the welcome dinner.
+
+![Scholars and Talent Protocol Team at the Welcome Dinner](https://cdn-images-1.medium.com/max/2560/1*L-oGbKxSqf3VuFis6ozI9Q.jpeg)
+
+Arriving there, we couldn’t believe our eyes. The view was simply breathtaking: the Bosphorus lay right at the edge of the table. Suddenly, we found ourselves engaged in conversations with people from all corners of the globe: Anastasia, with roots in Russia, came from Germany; George, also from Germany; the fantastic group of Mexicans (Latinos power!); people from Asia; and Lisbon was well represented, as many members of the Talent team hailed from there.
+
+The initial cultural exchange was amazing. The first questions always revolved around, *“How did you get into blockchain? Why are you here?”* I’ve always cherished my response. When I heard Vitalik describe Ethereum as a protocol for human coordination, I was spellbound. Initially from a philosophical standpoint and later fueled by intrigue about why and how all of this was technically possible. Today, I’m fascinated by the prospect of building products and technology that can genuinely make an impact.
+
+I believe the best part of the scholarship was precisely that: connecting with people from all walks of life, each with their unique perspectives and ways of viewing the world. I am convinced that the more diverse and varied inputs we gather as builders, the better the outputs we can achieve.
+
+Special applause to Tolga, the mastermind behind selecting our venues, and [Juampi.eth](undefined), the one who ensured we were always on the move smoothly. The dinner was simply incredible — the view, the food, the people — everything was flawless.
+
+Monday was a day of many things. Starting the day early, we set out for a day of sightseeing with Alejo, Matute, Juampi, and Santi. The goal was to reach the mosques and the Grand Bazaar, our first glimpse of the city. The bustling streets and markets unfolded before us, offering a vivid introduction to the cultural tapestry of Istanbul. As we navigated our way through the city, the minarets of the mosques stood tall against the skyline, a testament to the rich history embedded in every corner.
+
+![Juampi, Alejo, Santi and I](https://cdn-images-1.medium.com/max/3580/1*-NAhq-Kf_4LTPeghVLgOzQ.png)
+
+For our good fortune, Istanbul is a very rainy city, so a bit of water couldn’t be missing from our journey. It started to rain, and we enjoyed a gray day in the city.
+
+![Blue Mosque](https://cdn-images-1.medium.com/max/6048/1*GWg54KYWUkSs8kTTHhkLkw.png)
+
+The way back was tricky. We were waiting for a bus on the other side of the bridge, but none of them stopped (weird). We waited for a while, getting quite wet (because of the storm), and after asking a local, we found out the issue: that was actually the end of the route!!! We laughed a bit and ended up at the correct stop. That’s how we got back to the hostel to dry off and get ready for [LabWeek Summit](https://22.labweek.io/), the [Protocol Labs](https://protocol.ai/) event.
+
+After navigating through the rain-soaked streets of Istanbul, we found ourselves at a breathtaking hotel with a view of the Bosphorus for the LabWeek Summit. The venue, Swissotel Bosphorus Hotel, set the stage for collaboration and breakthroughs. As part of the experience, we attended PL Summit 23, where key speakers, including CEO Juan Benet, provided insights into the vision for the Protocol Labs network.
+
+![Scholars at LabWeek23](https://cdn-images-1.medium.com/max/3936/1*rimvMkA3xY6MAmD0Fir9tg.png)
+
+It was an opportunity to connect with the community and witness firsthand the advancements and discussions shaping the future of computing (and eat really tasty food). After that, we headed to another venue that personally fascinated me: it resembled a refurbished Roman ruin turned into an event space.
+
+![Protocol Labs Opening Party Venue](https://cdn-images-1.medium.com/max/3564/1*mBFERvgkbVSAJJHOq9L0Dg.png)
+
+There, something unexpected occurred — Juan Benet (CEO of Protocol Labs) approached the scholars to engage in a conversation that lasted around 1 hour, delving into the future of Protocol Labs. One of the questions he posed was about our interests and current pursuits. I shared that I’m currently working in a neuroscience laboratory, expressing my excitement about learning how humans behave. Specifically, I’m eager to explore the intersection between building better governance systems, blockchain, and understanding how we make improved societal decisions.
+
+In this conversation, a key learning of the week emerged. Santi asked why IPFS has “interplanetary” in its name. Juan responded with something along the lines of:
+>  When you think about that level of complexity, you solve smaller problems.
+
+![Juan Benet, Simon Puebla, Santi and I](https://cdn-images-1.medium.com/max/2000/1*Gah2_gbGBZUmM05fiRnzsw.png)
+
+Tuesday started early for me. I had made a commitment to keep up with university, so Santi and I decided to wake up early to make progress on our school work. The terrace of Wabi Sabi was a perfect spot for this, coupled with the fantastic breakfast that awaited us every morning.
+
+![School work at Wabi Sabi](https://cdn-images-1.medium.com/max/2000/1*lJVWc4Iq4w7jwZGfcZv_dw.png)
+
+The plan for the day was to start studying, and after breakfast, head to the Devconnect co-working space to delve further into our school work while surrounded by more people from the ecosystem. Additionally, that day marked the beginning of our thoughts about the upcoming weekend’s hackathon.
+
+![Santi and I arriving to Devconnect](https://cdn-images-1.medium.com/max/2000/1*UiL6yYlt6BwzeKP0qPirjA.png)
+
+Furthermore, it was a day to attend a new event. On Tuesday, *Abstract* took place, a conference centered around the topic of Account Abstraction and related subjects. Along with Santi, we had earmarked two talks/workshops that interested us: one on account abstraction with Aztec sandbox, led by Josh, one of the devrels at Aztec, and another titled Account Abstractions for real (and 3 reasons why I’m afraid to use it today) by Marcin Michalski, Chief Protocol Architect at Matter Labs.
+
+The first session on account abstraction with the Aztec Sandbox was practical, providing a view of the practical implementation of these concepts. Perhaps I got stuck while installing dependencies, Josh explained everything in a really cool manner. One cool thing was this hybrid states thing, where we have private and public storage. And private things are stored in ***notes***, which are something like nodes, but cooler.
+
+The thing is that Aztec uses a UTXO model. The core of any transaction will be a *Note *and their state is managed by a *Note Registry *for any given asset.
+
+The user’s balance of any aztec asset is made up of the sum of all of the valid notes their address owns in a given Note Registry.
+
+![Josh’s Workshop at Abstract](https://cdn-images-1.medium.com/max/2000/1*0qRjYUuSMavaej7t9xOtYw.png)
+
+The second talk, focused on broader and more reflective aspects of account abstraction, offering perspectives and addressing some fundamental concerns:
+
+* Migration problem: “I will forget something”
+
+* Security problem: “I will get hack”
+
+* Emergency Exits: “My funds will be locked”
+
+What we need in account abstraction, according to Marcin, is **easy migration**, **clear criteria** and **emergency exit plans.**
+
+To understand what happened in the last hours of that day, I have to mention Palla ([Santiago Palladino](undefined), or Santi, or Palla — call him what you will), one of the most crucial figures of the week. A few days before the start of the Devconnect week, Santi P. added us to a group of Argentinians who would also be there that week. This led to an invitation to **frENS**, an event on a terrace hosted by POAP and ENS. Along with Santi N., we went there and enjoyed meeting a lot of people, particularly many Argentinians who are making waves in different protocols (which completely blew our minds). Something that started happening that afternoon is that suddenly, talking with people we greatly admire became normalized. Suddenly, our role models become real people, and they were literally next to us.
+
+![Santi and I at frENS](https://cdn-images-1.medium.com/max/3560/1*BwEJwLyvMREDzVwpppEfdA.png)
+
+But the madness of the day didn’t end there; that same night, Martín, another key personality of the week, invited us to a dinner with the Argentinians from that group. We ended up taking the subway with Santi, Marto, and several other Argentinians, engaging in discussions about politics, the future of blockchain, and other nerdy topics. Another moment that blew my mind: many of the ecosystem’s most important people — at least from my POV — are from our country. At that dinner, I met Arantxa; she is a mathematician from the UNC and a cryptography Ph.D., currently working on zk-SNARKS and more at the **Ethereum Foundation** (just an everyday thing, right?). I was fascinated by her; she is an incredible person.
+
+Wednesday continued to be a whirlwind. We decided it was time to start focusing on the hackathon, brainstorming ideas, and figuring out how to implement them. We knew we wanted to do something with zero-knowledge proofs, but we needed to clarify product and problem-related aspects. We had some debates with Santi, and as Simon, the third member of the group up to that point, could join, we shared different perspectives.
+
+![](https://cdn-images-1.medium.com/max/2288/1*UidC4RITcJH8Mx2pebXC6g.png)
+
+Recently, we had read a paper about BZKDIMS (Blockchain and Zero Knowledge based Digital Identity Management System). There are two key concepts:
+
+ 1. **DIMS** (Digital Identity Management Systems): refers to the way customer information is collected, stored, and accessed.
+
+ 2. **BZDIMS**: is the proposed new format outlined in the paper. The main difference lies in utilizing Blockchain and Zero-Knowledge (ZK) to decentralize identity management. The goal is to include a challenge-response protocol, allowing users to selectively reveal attribute ownership to service providers, thereby protecting user behavior privacy.
+
+The main problem addressed is that most DIMS are centralized, making them vulnerable to attacks due to single points of failure, manipulations, and internal breaches. Additionally, database information leaks cause significant losses to users, as seen in incidents like the leakage of 500 million pieces of customer information from China Huazhu Hotels (Wei, 2018) or the Facebook and Cambridge Analytica scandal.
+
+Most Service Providers (SP) also act as Identity Providers (IdP), forcing users to register under the SP’s domain to access services. This isolated identity model leads to a rapid expansion of identities on the internet, resulting in numerous fragmented identities that users find overwhelming. While some federated identity services allow multiple SPs to share the same IdP, user authentication operations for services in other domains are redirected to the IdP, undermining user behavior privacy.
+
+The most discussed model likely to replace centralized DIMS is the claim-based identity model, which stores the mapping of the user identifier to the attribute in a distributed, public, and transparent manner. The IdP verifies the attribute value and issues claims about the mapping to support user attribute ownership.
+
+Key improvements proposed in the paper include:
+
+ 1. **Enhancement of the existing claim-based identity model and definition of the privacy attribute token:** This improved model avoids exposing privacy attribute ownership by making it distributed, public, and transparent by including the attribute identifier and the user’s public key in the hash preimage. This ensures non-linkability between the user and their identity, expanding the application scope of the existing claim-based identity model.
+
+ 2. **Implementation of a digital identity management system named BZDIMS**: This system handles a complete life cycle of privacy attributes, providing a solid foundation for other security mechanisms.
+
+ 3. **Design of a challenge-response protocol allowing users to selectively reveal attribute ownership to SPs:** When accessing services, user authentication operations are redirected to privacy attributes through a Zero-Knowledge Proof (ZKP) instead of being directed to IdPs. This ensures that the authentication content is visible only to the SP, preserving user behavior privacy. (Which is excellent.)
+
+The idea was fantastic, so we initially brainstormed around that. However, Simon had mentioned something like:
+>  “It’s useless to implement an incredible technology if it doesn’t change anyone’s reality in the slightest.”
+
+So, we began to think about issues related to identity. Weeks ago, in a Data Visualization class, I had learned about the harsh reality where hundreds of journalists die each year for telling controversial stories (cases of corruption or investigations into drug trafficking). That’s when we said, *“This is the direction to explore!”*
+
+Then, we began to list the technologies we had available. At that time, the plan was for [Santiago]() and I to develop.
+
+![](https://cdn-images-1.medium.com/max/2140/1*Kcvg_3tN-4OkPo87jNOKuQ.png)
+
+So, an idea that we thought was excellent emerged: What if we used the Aztec structure to achieve hybrid ERC-721 in a duality of public-private? Suddenly, we could build an identity abstraction platform where the journalist decides when to show more information than necessary and when not to.
+
+We realized that at the table next to us, a significant part of the Aztec team was present, and that’s when we met Zé Pedro, another prominent figure on the journey. Zé Pedro is one of the DevRels at Aztec, and Santi approached him saying, “Are you Zé Pedro?” — recognizing him from Discord.
+
+![Zé Pedro, Santi and I at Devconnect Cowork](https://cdn-images-1.medium.com/max/3576/1*YrNveMALdwQ61SOWiI1L4w.png)
+
+We wanted to understand if the idea we had was feasible, so we shared a bit about it, and it was one of those moments of almost instant connection. We explained that we were newbies in Aztec, and Zé Pedro was very willing to help us. That’s how one of the connections that would last the rest of the journey began.
+
+After that, we attended L2 Days, another conference taking place during the week. The goal was to listen to Cooper Kunz, another member of Aztec. The talk was about Comparing Censorship Resistance Mechanisms in Layer-2 Networks. ****We gained several insights and continued with the day.
+
+![Cooper at L2Days](https://cdn-images-1.medium.com/max/2012/1*fOaRU0bAObsKlQucZ9pYUA.png)
+
+Upon returning from L2Days, we went on a boat along the Bosphorus, traveling from the oldest part of Istanbul to the Asian side and encountering decades-old mansions. It was a good moment to pause (as we were receiving a lot of inputs), be present, and be grateful for everything that was happening to us.
+
+![Santi and I on a boat trough the Bosphorus](https://cdn-images-1.medium.com/max/2012/1*CDm84Z7norV_WSkRtVhQrA.png)
+
+![The incredible view from the boat.](https://cdn-images-1.medium.com/max/2008/1*__fvwg3UrJe9KlBjtiPPnA.png)
+
+After that, we returned to the co-work space to continue working on the hackathon idea. We wanted to meet up with Simon there to continue discussing ideas.
+
+![Santi and I getting kicked from the co-work because it was 8 pm](https://cdn-images-1.medium.com/max/6048/1*cNw4vUO7LjvSDCWRJr6hUw.png)
+
+On that same day, the scholars were heading to the rAAVE party, but Santi and I decided to have dinner somewhere in Istanbul. The dinner was amazing, but we had the worst lemonade in history. We walked back, reflecting on how fortunate we are, once again.
+
+Thursday held the promise of being an extraordinary day, marking the arrival of one of the conferences we had been eagerly anticipating all week: **Progcrypto**. The Programmable Cryptography Conference, spanning two days, was organized by **0xPARC** and **PSE**, bringing together researchers, developers, and community members with a focus on next-generation cryptography and its applications.
+
+![The entrance to Progcrypto](https://cdn-images-1.medium.com/max/2020/1*vJUPwL3BihqdWzT8hKRakw.png)
+
+The morning schedule was nothing short of remarkable:
+
+* The opening: **<d/acc> **by **Vitalik Buterin**
+
+ <iframe src="https://medium.com/media/e60af0edf24425a3f9f31af56efc7bf9" frameborder=0></iframe>
+
+* Then: **Introduction to Programmable Cryptography** by **gubsheep**
+
+* Later: **Why you should care about polynomials **by **Arantxa Zapico**
+>  Cryptography, as a defensive technology, stands at the forefront of securing the modern digital landscape, ensuring the confidentiality, integrity, and authenticity of information.
+
+![Notes on Vitalik’s talk](https://cdn-images-1.medium.com/max/2188/1*ljWHLoDHlH3YpJSdB1MLeA.png)
+>  zk-SNARKS transform math problems into programmable tasks.
+
+![gubsheep’s talk](https://cdn-images-1.medium.com/max/3584/1*AAiY_Nn55B1WhEzo_BPrDg.png)
+
+![Notes on gubsheep’s talk](https://cdn-images-1.medium.com/max/2228/1*gLPsjju8DT8oC7NsDurjHg.png)
+
+After listening to the initial talks, we headed to the Hacker Café hosted by ETH Global at the Hotel Intercontinental, roughly a 15-minute walk from the Progcrypto venue. To our surprise, as we started walking there, we bumped into Zac, one of the founders of Aztec (which, in case you didn’t notice, was one of the most relevant companies for us on the trip). Santi approached him and said, *“Hey! Are you Zac?”* and we started talking to him. We shared the idea we had about the public-private ERC-721, and he said it was a good idea. We were surprised by his lack of haste to leave; we continued chatting, and it was incredible. A great person indeed.
+
+![Zac, Santi and I](https://cdn-images-1.medium.com/max/3576/1*7aknJrEdCmk12npX95xbOQ.png)
+
+That’s how we continued walking and arrived at the Hacker Café, the view was simply incredible. We checked in and had our first contact with the fellows who were going to hack with us over the weekend.
+
+![Hacker Café — Istanbul](https://cdn-images-1.medium.com/max/2000/1*Ziv0wzPcHDcgIDRW5TO0wg.png)
+
+![The view from the top of Intercontinental Hotel](https://cdn-images-1.medium.com/max/2016/1*HUqx3aiZkCpAQoA4DqkSiw.png)
+
+We spent some time there, brainstorming with Simón to refine the details for the hackathon. We began to pivot the idea: the public-private ERC-721 was a good starting point, but we needed to be able to interact with it in the product, and deploying it on the Aztec Sandbox could be a hindrance. Thus, we started contemplating another model: what if we used a circuit built in Noir to validate that a journalist is indeed a journalist, and as a result, they could claim an NFT only if they belonged to that category? In this scenario, the regular ERC-721 would serve as the gateway to the platform.
+
+After debating for a while, I took an hour to return to **Progcrypto** to listen to Arantxa’s talk. During the talk, she delved into the profound significance of polynomials, offering a comprehensive exploration of their importance in the realm of algebraic techniques and their applications to succinct arguments. With a primary research focus on the application of algebraic methods to compelling constructs like SNARKs and vector commitments, Arantxa provided insightful perspectives on how polynomials serve as fundamental elements in these cryptographic frameworks. It was just, incredible.
+
+![Notes on Arantxa’s talk](https://cdn-images-1.medium.com/max/2060/1*JTrCq3otrMwj-53dmMyLUg.png)
+>  Key learning: do your algebra.
+
+![Why you should care about polynomials by Aranxa Zapico](https://cdn-images-1.medium.com/max/3592/1*wkrBxXCslRHGUeoEI47W0w.png)
+
+Then, I returned to the Hacker Café, and we met Jack, one of the guys staying at the Aztec Hacker House — to which we were invited thanks to Palla, clearly -. Palla had connected us with Jack at the beginning of the week, but we hadn’t coordinated a way to meet yet. Jack is from the United States, started studying CS but dropped out and is now delving into the world of ZK. Santi N. and I agreed that he’s someone we want to stay in touch with, very intelligent and willing to help.
+
+![Simon and I receiving sunlight](https://cdn-images-1.medium.com/max/3344/1*MSOZqZhuaSOWnxQ2L6w93g.png)
+
+After the afternoon of exchanging ideas, Palla had invited us to an event called *Aztec Speed-Run Networking*, the venue was at one of the stadiums and until we got there, we hadn’t understood the “speed-run networking” part. The dynamic was as follows: you arrived, there was food — we arrived late — and you were assigned a group number. Aztec team members were sitting at different tables, and you had 10 minutes to sit and chat with each of them. Santi N. and I were a bit shy at first; we didn’t expect that from the event — it was much better than we thought. After talking with some people who encouraged us to chat with the team, we decided to join a round.
+
+I ended up talking to Maxim Vezenov, who is a Software Engineer / Language Designer, with a BSc in Computer Science and Business & MSc in Computer Science from Lehigh University, focused on accelerating ZKP generation. He told me a bit about life working at Aztec; he’s in the compiler part of Noir (super interesting). I shared my motivations and interests, and he gave me some guidance, and it was incredible.
+
+We took away several key learnings. Personally, I was fascinated by the openness of the Aztec team. The company’s culture seemed very interesting, and I would definitely like to work in a place like that, where a newbie can sit down and talk to the CEO as if it’s nothing. Simply amazing. My mind couldn’t stop racing.
+
+At the end of the event, Palla offered to take us back to Taksim with them, and we said yes. I think this was another thing that made me think Palla took us under his wing during the trip, and I couldn’t be more grateful. Many of the intros to people were thanks to him or his nudges. I dare say that having mentors like him at our stage is crucial (Palla, si estás leyendo esto te queremos un montón).
+
+On Friday, the day started with the Talent Brunch, a breakfast event in a delightful co-work space on the other side of the bridge in Istanbul. It was an opportunity to interact with the Talent team and others in the community. We arrived, and the food was amazing, so was the view — Tolga once again nailed the choice of venue.
+
+ <iframe src="https://medium.com/media/696480942507cc377006b0fd7dfde7d1" frameborder=0></iframe>
+
+On the same day, the hackathon began, and we had a problem: every time Santi tried to turn on his computer, the screen showed something like “non-bootable device available,” and we couldn’t figure out what was happening. The initial idea was to consult with the Talent team; they offered a place to fix it, but we wouldn’t make it to the hackathon on time if we did that. So, Santi sent a message to the Argentine group in Istanbul.
+
+This tweet happened:
+
+ <iframe src="https://medium.com/media/b7c0a04be15b17d5b7aa2a912fab9bc3" frameborder=0></iframe>
+
+And immediately after, someone from the group offered to lend Santi a computer to hack in peace (thanks, Arantxa).
+
+![Take Off flag at Talent Brunch](https://cdn-images-1.medium.com/max/2020/1*8WLwpaL3lwbvAIooo4CfAA.png)
+
+After the Talent Brunch, all the fellows had an interview with the team, sharing our experiences. The questions were insightful, making me reflect (I’ll leave the link to the video here when it’s uploaded). Once Santi, Simon, Camellia, and I had been interviewed — Camellia, the newest addition to the team, brought incredible insights as a journalist, helping us better understand the problem we wanted to solve — we headed to ETH Global to check in for the hackathon starting at 9:00 pm.
+
+ <iframe src="https://medium.com/media/ee201315c462bf4cc49020aa305d2623" frameborder=0></iframe>
+
+The check-in for the hackathon was impressively organized, marking my entry into the largest hackathon I’ve attended. The venue buzzed with participants from all corners of the globe, creating a vibrant and diverse atmosphere. The sheer magnitude of the event was evident, with an abundance of hackathon merchandise. The venue itself was well-structured, and the presence of numerous mentors added to the supportive environment. Amidst the intense coding sessions, there was an unexpected delight — plentiful and varied food options, ensuring that participants were fueled and ready for the hackathon challenges. Overall, the first impressions were overwhelmingly positive, setting the stage for an exciting and productive hacking experience.
+
+Upon arrival, I headed to the Lens Protocol Workshop, as we had considered using the protocol for the social aspect of the application. That’s where we met Nader, which was quite surreal as I had seen him in YouTube videos.
+
+ <iframe src="https://medium.com/media/dd7b16a4c94718a34a93f71fd2d61d31" frameborder=0></iframe>
+
+The hackathon team was a dynamic mix of individuals with diverse skills and backgrounds. Our lineup included Simon, bringing his expertise in business and product strategy, Camellia contributing her marketing insights, Santi focusing on the intricacies of Noir, and myself, tasked with developing the necessary smart contracts and implementing specific aspects of the front-end. To complement our skills, we welcomed Ali, a talented developer we connected with on Discord. Ali joined the team to take charge of the social part development, using Lens Protocol. Working with a group of people you don’t know initially might pose challenges, but the diversity of skills and the shared enthusiasm for the project quickly turned it into a collaborative and dynamic experience.
+
+The importance of a diverse team became increasingly evident as we delved into the hackathon project. Each team member brought a unique set of skills, perspectives, and problem-solving approaches to the table. The diversity of our backgrounds fostered a rich exchange of ideas, enabling us to tackle challenges from multiple angles. It became clear that the amalgamation of various viewpoints led to more comprehensive problem-solving and innovative solutions.
+>  A diverse team not only enhances creativity but also ensures a more robust and well-rounded approach to addressing complex issues, ultimately contributing to the overall success of the project.
+
+The importance of being honest with your team surfaced prominently during our collaboration. As we sought to understand the development stage and allocate tasks, clarity became crucial. With team members having different native languages, communication occasionally faced challenges. Ali and I were responsible for the platform’s development, and we initially aimed to agree on the framework and construction approach. The initial plan was to use Next.js with the Lens Protocol API. However, a misunderstanding occurred when one of us ran the command:
+
+    $ npx create-next-app@latest
+
+while the other ran:
+
+    $ npx create-lens-app
+
+Although not inherently wrong, this led to difficulties merging different GitHub branches, prompting us to restructure the project. This experience underscored the importance of honesty in constant communication, requiring us to clarify tasks and methods while putting personal egos aside, a practice that proved pivotal for smooth collaboration.
+
+![Santi, Ali, me, Camellia and Simon at our table in ETH Global](https://cdn-images-1.medium.com/max/3592/1*_jJIB9p4zVwv_0SwYw9noA.png)
+
+When diving into a hackathon and sketching out a decentralized app (DApp), it’s like constructing a building — or smth like that. Start with a clear blueprint of what you want the DApp to do — the main features and how it connects to the blockchain (we actually draw a cool scheme I can’t find right now). We had to choose the right blockchain platform as our building material — we thought about Polygon. Smart contracts are like the building blocks; we had to design them well, ensuring they work together smoothly. Here we made a mistake, cause Santi was working on his own on the Noir circuit and we didn’t communicate that well between each-other during the first hours of the hackathon. Also, we had to thing about the user interface as the front door — it should be easy for journalists to walk in and use the DApp.
+
+![Me and the loneliness of a battery drained computer](https://cdn-images-1.medium.com/max/2696/1*lp7ryWRG4Bf0CgAq53SFHg.png)
+
+Having more than seven hours of sleep on the first night of the hackathon was a double-edged sword. On one hand, it was refreshing to start the event well-rested, ensuring a clear mind and increased productivity. However, the downside became apparent later as we realized we had lost seven crucial hours of potential work. Despite this setback, it did contribute to a more energized and focused start on Saturday, making us appreciate the importance of balancing rest and productivity during such intense events.
+
+On Saturday, my primary focus turned to constructing the login feature. Firstly, I had to build the interface for verifying that a journalist was indeed a journalist. This involved using WalletConnect to link the wallet, creating a placeholder to connect the ZK circuit that Santi was developing, enabling the ability to switch wallets, and then claiming the NFT that would represent the credential for accessing the platform.
+
+![Log in UI](https://cdn-images-1.medium.com/max/4832/1*pZXtDEh3vZtQuvCNXQjCog.png)
+
+Having completed this, I relaxed quite a bit, thinking, *“Well, I’ve fulfilled my task.”* This wasn’t as good as it seemed because it led to me doing things last-minute and leaving Ali alone for a few hours. I took the opportunity to sit close to Santi alongside the Aztec team and understand what they were working on.
+
+Upon returning to Ali, we encountered a setback as the repository faced issues, requiring us to swiftly find alternative solutions to keep the development momentum. This challenge allowed us to appreciate the importance of adaptability in a hackathon setting. But also, the importance of communication — again.
+
+During those hours, something that stood out a lot was the great connection we had with the Aztec devrels. We spent several hours of the hackathon around Zé Pedro, Josh, and Cat. As Santi progressed with the circuit, we kept asking them questions. In fact, the final scheme we used for building that part was based on a repository by Zé Pedro for private-airdrops.
+
+Gradually, I became more and more interested in Aztec and Noir. It turns out that having a private blockchain will be highly necessary in the not-so-distant future, and I feel that Aztec is at a stage similar to what people say about Solidity and Ethereum in 2015. It’s the right time to start learning.
+
+As the night approached, Cat invited us to have pizza at the Aztec Hacker House. I hesitated a bit because I realized that the product part was a bit behind, as Ali had encountered some difficulties implementing certain Lens features, and I had relaxed after finishing the login. At the same time, we had noticed that we might not get the zk circuit working perfectly on time, and we had thought about using Worldcoin’s authentication as one of the inputs for the circuit. In that regard, I delved into the Worldcoin documentation and started reading about this new feature they introduced called *anonymous actions*. Basically, you can create anonymous actions to verify any arbitrary action a user might take in your app, where each action is independent of other actions. This led me to think about building the same login we had planned with the zk circuit but implementing anonymous actions, so we would have a plan B in case the main idea didn’t work out.
+
+Anyways, we ended up accepting Cat’s proposal, and it was amazing. The night started with a torrential rain that led us to try to take a taxi with Zé Pedro to go to the Hacker House. The funny part was Zé Pedro trying to negotiate a fare of less than 300 Turkish liras. The taxi drivers were resistant, and Pedro was saying things like *“can you make it 200, and we become friends!”* and “*isn’t my friendship worth that?”*. It was hilarious. I was quite nervous because I was thinking that we were falling a bit behind with the code, but looking back, 1. it was very funny, and 2. it was totally worth it.
+
+We ended up arriving at the Hacker House, meeting more people from the team and other hackers. We had pizza, got the best hoodie on the planet, listened to music, and continued hacking from there. I think by that point, Santi was quite stressed and a bit burnt out from spending too many hours on the same problem, but Pedro was very patient and was beside him helping. We definitely learned a lot.
+
+![Me with my hodie](https://cdn-images-1.medium.com/max/2000/1*vQIOmFoHb8joHj9qCAeK7g.png)
+
+Returning to the hackathon, I started implementing the concept of anonymous actions. I had discussed with Ian from Worldcoin to understand if using a Worldcoin public key as input in a zk circuit was possible. He thought it was a good idea but suggested that implementing something with anonymous actions could be more usable and optimize hackathon time. So, I decided to use Worldcoin’s IDKit to achieve what I wanted. The login thus transformed into this:
+
+    export default function Journalist() {
+      const [isNFTMinted, setIsNFTMinted] = useState(false);
+      const mintNFT = async (address) => {
+        try {
+          const provider = new ethers.providers.JsonRpcProvider('https://rpc-mumbai.maticvigil.com');
+          const signer = provider.getSigner();
+          const contractAddress = '0x0674300acb2b7f9ff1645073b469eaceaae307eb'; 
+          const contract = new ethers.Contract(contractAddress, JournalistABI, signer);
+      
+          // Call the safeMint function of the NFT contract to mint the NFT for the user
+          const transaction = await contract.safeMint(address);
+          await transaction.wait();
+      
+          console.log('NFT minted successfully!');
+          setIsNFTMinted(true);
+    
+          
+        } catch (error) {
+          console.error('Error minting NFT:', error);
+        }
+      };
+      const { address } = useAccount();
+      const [isCheckedIn, setIsCheckedIn] = useState(false);
+    
+      const handleVerify = async (response) => {
+        if (response.address) {
+          const provider = new ethers.providers.JsonRpcProvider('https://rpc-mumbai.maticvigil.com');
+          const signer = provider.getSigner();
+          const contractAddress = '0x7e6904463f5d1cfb54056fa4e37d56e79d7c4af6'; 
+          const contract = new ethers.Contract(contractAddress, AirdropABI, signer);
+      
+          try {
+            // Call the isEligible function of the smart contract to check if the provided public address is eligible for the airdrop
+            const isEligible = await contract.isEligible(response.address);
+      
+            if (isEligible) {
+              console.log('The provided public address is eligible for the airdrop!');
+              // Perform additional actions if the address is eligible
+            } else {
+              console.log('The provided public address is not eligible for the airdrop!');
+              // Perform additional actions if the address is not eligible
+            }
+          } catch (error) {
+            console.error('Error occurred during verification:', error);
+          }
+        } else {
+          console.error('Invalid address: The address is undefined');
+        }
+      };
+      const handleGetCredential = async () => {
+        try {
+          if (window.ethereum) {
+            const provider = new ethers.providers.Web3Provider(window.ethereum);
+            const signer = provider.getSigner();
+      
+            const contractAddress = '0x0674300acb2b7f9ff1645073b469eaceaae307eb';
+            const contract = new ethers.Contract(contractAddress, JournalistABI, signer);
+      
+            const transaction = await contract.safeMint(address);
+            await transaction.wait();
+      
+            console.log('NFT minted successfully!');
+            setIsNFTMinted(true);
+            toast.success('You have your credential! Go to Morvo :)');
+    
+          } else {
+            console.error('MetaMask or similar provider not found.');
+            toast.error('Error minting your credential');
+    
+          }
+        } catch (error) {
+          console.error('Error minting NFT:', error);
+        }
+      };
+    // More code that doesn't mind
+    return(
+    // a lot of things first bla bla
+       </AccordionContent>
+          </AccordionItem>
+          <AccordionItem value="item-2">
+          <AccordionTrigger className="cursor-pointer text-black p-5 font-poppins">Prove ownership</AccordionTrigger>
+            <AccordionContent className="text-black p-5 font-poppins">
+            <div className="flex flex-col">
+            <p className="text-black">Generate proof to withdraw your tokens to! It may take 3-5 minutes to generate the proof (and longer if there is a queue).</p>
+      <div className="bg-[#E5374C] hover:bg-[#FF5368] text-white py-2 px-4 rounded-lg my-5 w-[300px] h-[50px] text-center align-middle">
+      <IDKitWidget 
+          action="public-adress"
+          signal={address}
+          onSuccess={response => console.log(response)}
+          handleVerify={handleVerify} // Use the handleVerify callback function to interact with the Solidity smart contract
+          app_id="app_staging_51d1b635afd37257e1afb7050d156967"
+        >
+          {({ open }) => <button onClick={open}>Sign in</button>}
+        </IDKitWidget>
+      </div>
+    //...
+    )
+
+    // SPDX-License-Identifier: MIT
+    pragma solidity ^0.8.0;
+    
+    contract Airdrop {
+        mapping(address => bool) public eligibleAddresses;
+    
+        // Add an address to the list of eligible addresses
+        function addEligibleAddress(address _address) public {
+            eligibleAddresses[_address] = true;
+        }
+    
+        // Check if an address is eligible for the airdrop
+        function isEligible(address _address) public view returns (bool) {
+            return eligibleAddresses[_address];
+        }
+    }
+
+    // SPDX-License-Identifier: MIT
+    pragma solidity ^0.8.20;
+    
+    import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+    import "@openzeppelin/contracts/access/Ownable.sol";
+    
+    /// @custom:security-contact malbaposse@mail.utdt.edu
+    contract Journalist is ERC721, Ownable {
+        uint256 private _nextTokenId;
+    
+        constructor(address initialOwner)
+            ERC721("Journalist", "JOUR")
+            Ownable(initialOwner)
+        {}
+    
+        function safeMint(address to) public onlyOwner {
+            uint256 tokenId = _nextTokenId++;
+            _safeMint(to, tokenId);
+        }
+    }
+
+And I also had to deploy these two contracts on the Polygon testnet to make use of the actions. Building a Plan B became essential, and in the spirit of collaboration, we sought help from Ian of Worldcoin and the Lens Protocol team, demonstrating the power of community support in overcoming challenges at the hackathon.
+
+That night, clearly, I didn’t sleep. Around 4 in the morning, I decided to take a power nap for 10 minutes, and upon returning, we realized that the implementation with Lens in Ali’s hands wasn’t working too well. So, we sat down and had to hardcode what was missing: an article dashboard, the way to upload them, and the journalist’s profile. It was challenging, stressful, and I didn’t fully understand what was happening with my brain. I hadn’t slept, but my productivity had increased too much due to the excess adrenaline I was experiencing. I don’t think I had ever programmed for so many hours straight before.
+
+I don’t remember exactly when between 4 am and 7 am, Cat arrived and sat down with us to chat. At one point, Simon and she started discussing Aztec and why Cat is so excited about it. She mentioned the need to build increasingly private systems as a response to empowering individuals. I got an incredible impression of Cat, and I would love to see her again soon.
+
+The clock kept ticking. Around 6 am, Camellia and Simon had to leave as their flights were in the morning. It was snowing. All I could think was that magic exists.
+
+Saying goodbye was swift, not much time for reflection. But I couldn’t stop recalling how amazing it was to get to know both Simon and Camellia; their life experiences were awe-inspiring. Camellia embodies strength and determination, while Simon is one of the smartest people I’ve met. His ability to conceptualize products, approach life with his philosophy, and engage with people is incredible.
+
+![Cat, Simon and I](https://cdn-images-1.medium.com/max/2000/1*drwcVycPdij8ftaOUquXbA.png)
+
+I began to feel the nerves. The body was taking a toll. The hours without sleep were showing, and the brain was slowing down. We had finished hardcoding what was missing; Santi was finishing the circuit, and although we hadn’t connected it to the interface, we had left it in a second branch on GitHub. We had something that worked reasonably well. It was time to deliver.
+
+![](https://cdn-images-1.medium.com/max/2000/1*UR77uBnC76w4CSASFhq5Gw.png)
+
+So, 8:59 am arrived, we had clicked the submit button, and the computer screen celebrated with us. When it turned 9:00 am, the entire room erupted in applause. The sheer number of projects that emerged from those 36 hours of the hackathon was unimaginable. I couldn’t believe what I had experienced during this weekend.
+
+The time to present the project to the judges was approaching. With our brains in tatters, we had to get our act together and pitch *Morvo* as the best project on planet Earth. The general pitch didn’t go as well as we hoped — our product guy had just left! But we managed to carry it forward, being honest, and I loved that.
+
+After the general pitch, we had to pitch to the sponsors. That’s where I learned the most. First, we went to Worldcoin, and Ian — who had helped me during the night — smiled when he saw us in line. We sat down, and I began:
+>  We live in a reality where hundreds of journalists are killed for expressing their opinions and revealing cases that need to be known. We believe that blockchain has the potential to solve this. So, we created Morvo, an abstraction of identity for journalists. Basically, we provide them with a way to prove that they are journalists to publish anonymously while retaining real-world credentials.
+
+Then, we showed them the product and a bit of code, explaining how we implemented everything. We believe they liked the idea.
+
+![The after-pitch picture](https://cdn-images-1.medium.com/max/4246/1*_vbEpJjjluuJ5rd27EN6dw.jpeg)
+
+After that, we approached the Aztec table. We told them about what we had built and the experience of developing in Noir. Zé Pedro asked for feedback, and we discussed the hackathon, the things that were implemented, and why we couldn’t complete everything. We thanked him for the support.
+
+Then, we went to the pitch that, in my opinion, was the most challenging, Lens Protocol. Ali had gone to queue before Santi and I finished pitching to Aztec. We went there, and the first thing I said to Santi was, *“I won’t present an incomplete product,”* *“We can’t show this to Nader.” *To which Santi told me that, while I could be right, we can also be honest and tell him what we achieved, how we planned to implement Lens, and the barriers we encountered.
+
+And that’s what we did.
+
+Nader gave us very valuable feedback. We told him about the monetization model, and he really liked the idea overall. He asked for feedback on the Lens development, and we shared the barriers we faced. It was incredible.
+
+Santi, if you’re reading this, thank you for pushing me out of my comfort zone. I really appreciate you.
+
+![Last hours awake](https://cdn-images-1.medium.com/max/4242/1*SZBYaXoNtK_bxR0oD8oypQ.jpeg)
+
+And that’s how the pitching moment ended. We said goodbye to Ali and returned to the hostel to rest a bit. We couldn’t believe everything that had happened. We arrived at Wabi Sabi, took a shower, and Santi slept for an hour. It was time to return to the venue for the closing ceremony. We came back, spent some time with other hackers, and the ceremony began.
+
+They started announcing the awards, and we didn’t expect much. Suddenly, on the screen, it appeared: **Worldcoin — Best Overall — Morvo**. I couldn’t believe what I was seeing: we won the best Worldcoin prize!!! And not only that, I had learned to use a technology in a few hours, and it bore fruit. Then came the real surprise: **Lens Protocol — Best Monetization Model — Morvo**. Again, this time I really couldn’t believe it. Thinking that I was afraid to pitch to Nader because we didn’t have a perfectly implemented product. Sometimes being honest and seeking help pays off a lot.
+
+After that, we realized how great it was to have people who had our backs. Instantly, we received messages from Ze Pedro and Cat, congratulating us and saying they celebrated as if it were their victory too.
+
+ <iframe src="https://medium.com/media/696ebd6df2ce654a88ab364c29fe95ba" frameborder=0></iframe>
+
+Pedro, you are literally the best.
+
+ <iframe src="https://medium.com/media/2e2956048aca81db427fa249fe801868" frameborder=0></iframe>
+
+Palla, you are the best too.
+
+This is how the Devconnect week came to an end. I believe it is humanly impossible to express how grateful I am to all the organizations and individuals who made it possible for me to enjoy a week full of learning, new insights, new people, and new ideas. Thanks to **Talent Protocol** and **Take Off** for providing incredible opportunities to builders worldwide. Thanks, Palla, for believing in us and giving us a chance to connect with you and the incredible people around you. Thanks to each person who made Devconnect possible and included us in incredible plans. To Cat, Zé Pedro, Meredith, Josh, and the Aztec team, thank you for tolerating our million questions, inviting us to the hacker house, and making us feel part of something bigger than ourselves. Thanks also to every scholar who allowed me to get to know a bit of each one, their life stories: Melissa, Carmellia, Simon… forever in my heart.
+
+The biggest lesson is: **apply to every scholarship that catches your attention**; it may change your life. Because for me, this experience changed me forever.
+
+I’m excited to know what’s coming in the ecosystem, to do my algebra homework to understand polynomials, to learn web assembly to comprehend how things work, to understand noir, and to start building the future of privacy. But aside from all that, I’m excited to know that there’s such a large community ready to support juniors like me who are starting their journey.
+
+Gratitude is not enough to explain everything I feel after Devconnect.
+Thank you.
+
+If you’ve read this far, I hope that my experience serves you in some way. Thank you for reading.
+
+![](https://cdn-images-1.medium.com/max/2000/1*cVY4Y5LLZsTyRQ1usUj6Ow.png)
+
+Lastly, but not least, I want to thank you, [Santiago Nihany](undefined), for allowing me to experience this journey with you. Not only are you the best person on the planet, but also my favorite and the one I admire the most. I believe that our ability to work together in hackathons extends to everything: communicating effectively, having patience to each other, and finding the right words all the time. I hope we always find ourselves like this, building things wherever we go. Love you to the moon and back. I am fortunate to have you close.
+
+Keep building folks.
+
+## Articles and cools stuff I gathered: (I will update this links)
+
+[An introduction to AZTEC — Joe Andrews](https://aztec.network/blog/an-introduction-to-aztec/)
+
+[An Algebraic Framework for Universal and Updatable SNARKs — Carla Ràfols and Arantxa Zapico](https://eprint.iacr.org/2021/590)
