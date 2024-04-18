@@ -51,6 +51,7 @@ It was an opportunity to connect with the community and witness firsthand the ad
 There, something unexpected occurred — Juan Benet (CEO of Protocol Labs) approached the scholars to engage in a conversation that lasted around 1 hour, delving into the future of Protocol Labs. One of the questions he posed was about our interests and current pursuits. I shared that I’m currently working in a neuroscience laboratory, expressing my excitement about learning how humans behave. Specifically, I’m eager to explore the intersection between building better governance systems, blockchain, and understanding how we make improved societal decisions.
 
 In this conversation, a key learning of the week emerged. Santi asked why IPFS has “interplanetary” in its name. Juan responded with something along the lines of:
+
 >  When you think about that level of complexity, you solve smaller problems.
 
 Tuesday started early for me. I had made a commitment to keep up with university, so Santi and I decided to wake up early to make progress on our school work. The terrace of Wabi Sabi was a perfect spot for this, coupled with the fantastic breakfast that awaited us every morning.
@@ -75,15 +76,13 @@ The second talk, focused on broader and more reflective aspects of account abstr
 
 What we need in account abstraction, according to Marcin, is **easy migration**, **clear criteria** and **emergency exit plans.**
 
-To understand what happened in the last hours of that day, I have to mention Palla, or Santi, or Palla — call him what you will), one of the most crucial figures of the week. A few days before the start of the Devconnect week, Santi P. added us to a group of Argentinians who would also be there that week. This led to an invitation to **frENS**, an event on a terrace hosted by POAP and ENS. Along with Santi N., we went there and enjoyed meeting a lot of people, particularly many Argentinians who are making waves in different protocols (which completely blew our minds). Something that started happening that afternoon is that suddenly, talking with people we greatly admire became normalized. Suddenly, our role models become real people, and they were literally next to us.
+To understand what happened in the last hours of that day, I have to mention Palla, or Santi, or Palla — call him what you will-, one of the most crucial figures of the week. A few days before the start of the Devconnect week, Santi P. added us to a group of Argentinians who would also be there that week. This led to an invitation to **frENS**, an event on a terrace hosted by POAP and ENS. Along with Santi N., we went there and enjoyed meeting a lot of people, particularly many Argentinians who are making waves in different protocols (which completely blew our minds). Something that started happening that afternoon is that suddenly, talking with people we greatly admire became normalized. Suddenly, our role models become real people, and they were literally next to us.
 
 ![Santi and I at frENS](https://cdn-images-1.medium.com/max/3560/1*BwEJwLyvMREDzVwpppEfdA.png)
 
 But the madness of the day didn’t end there; that same night, Martín, another key personality of the week, invited us to a dinner with the Argentinians from that group. We ended up taking the subway with Santi, Marto, and several other Argentinians, engaging in discussions about politics, the future of blockchain, and other nerdy topics. Another moment that blew my mind: many of the ecosystem’s most important people — at least from my POV — are from our country. At that dinner, I met Arantxa; she is a mathematician from the UNC and a cryptography Ph.D., currently working on zk-SNARKS and more at the **Ethereum Foundation** (just an everyday thing, right?). I was fascinated by her; she is an incredible person.
 
 Wednesday continued to be a whirlwind. We decided it was time to start focusing on the hackathon, brainstorming ideas, and figuring out how to implement them. We knew we wanted to do something with zero-knowledge proofs, but we needed to clarify product and problem-related aspects. We had some debates with Santi, and as Simon, the third member of the group up to that point, could join, we shared different perspectives.
-
-![](https://cdn-images-1.medium.com/max/2288/1*UidC4RITcJH8Mx2pebXC6g.png)
 
 Recently, we had read a paper about BZKDIMS (Blockchain and Zero Knowledge based Digital Identity Management System). There are two key concepts:
 
@@ -110,7 +109,7 @@ The idea was fantastic, so we initially brainstormed around that. However, Simon
 
 So, we began to think about issues related to identity. Weeks ago, in a Data Visualization class, I had learned about the harsh reality where hundreds of journalists die each year for telling controversial stories (cases of corruption or investigations into drug trafficking). That’s when we said, *“This is the direction to explore!”*
 
-Then, we began to list the technologies we had available. At that time, the plan was for [Santiago]() and I to develop.
+Then, we began to list the technologies we had available. At that time, the plan was for Santi and I to develop.
 
 ![](https://cdn-images-1.medium.com/max/2140/1*Kcvg_3tN-4OkPo87jNOKuQ.png)
 
