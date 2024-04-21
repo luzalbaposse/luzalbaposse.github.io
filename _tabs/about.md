@@ -8,45 +8,52 @@ comments: true
 
 ---
 
-# Hey! I'm Lu :)
+## Bio, or something like that
 
-Formally, research assistant in the neuroscience lab at Torcuato Di Tella University, investigating political polarization. Currently building Detoxigram, a project that aims to mitigate the impact of toxicity in text channels.
+Hello! I'm Lu, a dedicated Bachelor in Digital Technology student and an advocate for harnessing technology to drive positive social change. As a Teaching Assistant & Research Assistant at Torcuato Di Tella University, I dive deep into the realms of blockchain technology, imparting knowledge on DeFi, Smart Contracts, and governance, while also exploring the intersection of political polarization and human behavior in the Neuroscience Laboratory.
 
-Informally, learning about Blockchain and Zero Knowledge. Right now I'm trying to get my mind around zk computation and the projects around that.
+My journey in tech has seen me embrace roles that marry design with utility, particularly in service of those with disabilities. As a UX/UI Designer with Asteroid Technologies, I contributed to the evolution of Háblalo, a tool designed to empower individuals with communication challenges, enhancing their interaction with the world around them.
 
-I'm interested in undestanding the intersection between computer science and human behaviour, eager to work at the edge of tech while building new governance systems (future goal) :)
+I'm an active volunteer, offering my time to organizations like DiTella Blockchain Club and participating in programs aimed at elevating women in technology. My passion for development has also led me to co-found initiatives that champion human rights and democratize access to information :) (learn more about that in esixellas.com)
 
-Excited about blockchain, game theory, math, politics and human behivour.
+My design sensibilities are matched by my technical acumen, having developed projects like Morvo, which uses zero-knowledge proofs to protect journalistic integrity, and Las Que Deciden, a data visualization platform that brings to light the underrepresented political voices of Latin American women.
 
+As someone who has seen firsthand the transformational power of technology, I am driven by the conviction that it is a powerful tool in the struggle for inclusion and the improvement of life quality for many.
 
-```mermaid
-gantt
-    title Timeline of some things
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y-%m
+> Excited about blockchain, game theory, math, politics and human behivour :)
 
-    section Education
-    Bs. in Digital Technology at UTDT :active, edu1, 2022-01-01,2026-06-01
-    Bs. in Professional Musician at EMC :active, edu2, 2024-01-01,2027-01-01
+## Education
+- Bachelor in Digital Technology
+    Torcuato Di Tella University
+    March 2022 - December 2025
+    A comprehensive program exploring the depth of digital innovation and technology.
+- Professional Musician
+    Contemporary Music School
+    March 2024 - December 2026
+    Pursuing a passion for music to harness the creative side of technology and art.
 
-    section Work
-    UX/UI Lead at Asteroid Technologies :active, work1, 2022-05-01,2023-01-01
-    Tech Designer at Instituto Humai :active, done, 2023-02-01,2023-07-01
-    Research Assistant at Neuroscience Lab :active, rsch1, 2023-07-01,2024-07-01
-    ZK Computation Researcher at Web3Citizen :active, rsch2, 2024-03-01,2026-05-01
+## Work
+- Teacher Assistant & Research Assistant
+    Torcuato Di Tella University
+    August 2023 - Present
+    Educating on blockchain intricacies while researching political polarization.
+- Tech Designer
+    Instituto Humai
+    April 2023 - July 2023
+    Contributed to AI and data science advancements for societal benefit in Latin America.
 
-    section Teaching
-    Blockchain Introduction Teacher Assistant :active, teach1, 2023-07-01,2024-07-01
+- UX/UI Designer
+    Asteroid Technologies
+    June 2022 - March 2023
+    Developed accessible technology for individuals with communication disabilities.
+- Columnist
+    Animal Político
+    March 2021 - December 2021
+    Crafted thought-provoking content to challenge conventional perspectives.
 
-```
-
-## Protocols I'm into right now:
-- Aztec 
-- RISC Zero
-- Nexus
-- Talent Protocol V2
-
-## Technology I'm excited about:
-- Zero Knowledge Proofs
-- Zero Knowledge Computation
-- Machine Learning 
+## Press or things like that
+- [Infinity Explorers Podcast](https://open.spotify.com/show/2ycFsJmnvpGhfrFndM9I0m?si=1a95df3ebb6f4f43)
+- [Diseño Consciente / Campus Party 2023](https://www.youtube.com/watch?v=tqHkjOt9Sw0&t=58s&pp=ygUOTHV6IEFsYmEgUG9zc2U%3D)
+- [¿Humanidades y Tecnología? / Nerdearla 2022](https://www.youtube.com/watch?v=4UBT7t_1JcI&t=2s&pp=ygUOTHV6IEFsYmEgUG9zc2U%3D)
+- [Diseño Consciente / Nerdearla 2023](https://www.youtube.com/watch?v=_u0K9A3xNRE&t=331s&pp=ygUOTHV6IEFsYmEgUG9zc2U%3D)
+- [ETH Latam 2022 / Momento Esquizo Podcast](https://open.spotify.com/episode/7oj5G5Lfqky2jskPe4JpKF)
