@@ -22,6 +22,9 @@ As someone who has seen firsthand the transformational power of technology, I am
 
 > Excited about blockchain, game theory, math, politics and human behivour :)
 
+## Bookshelve
+I like to read, a lot. Follow me on [goodreads](https://www.goodreads.com/user/show/145028748-luz-alba-posse)!
+
 ## Education
 - Bachelor in Digital Technology
     Torcuato Di Tella University
