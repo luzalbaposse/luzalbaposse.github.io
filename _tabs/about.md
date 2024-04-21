@@ -20,14 +20,13 @@ Excited about blockchain, game theory, math, politics and human behivour :)
 
 > Why would you merge Blockchain and Human Behavior? Because with blockchain, we may be able to build better governance systems. Perhaps the key to improved governance lies in understanding if we can create a more decentralized way of organizing our societies. The first step for that is learning more about how we behave.
 
-My ultimate aim is to pursue a PhD in Science and Technology, in order to apply the knowledge I gain there into industry by building my own social impact start-up :-D Maybe getting involve in goverment too, I would like to make a meaninful impact while i'm alive. 
+My ultimate aim is to pursue a PhD in Science and Technology, in order to apply the knowledge I gain there into industry by building my own social impact start-up :-D Maybe getting involve in goverment too, I would like to make a meaningful impact while i'm alive. 
 
 ## Bookshelve
 I like to read, a lot. Follow me on [goodreads](https://www.goodreads.com/user/show/145028748-luz-alba-posse)!
+
 *My favourite book*: "Los árboles mueren de pie" by Alejandro Casona
 (And Harry Potter, of course)
-
-## What am I doing right no
 
 ## Education 
 - Bachelor in Digital Technology / *Torcuato Di Tella University* / March 2022 - December 2025
