@@ -1,6 +1,6 @@
 ---
 title: What on earth is a zkVM
-date: 2024-04-18 10:30:00 +0200
+date: 2024-04-29 10:30:00 +0200
 categories: [Zero Knowledge, Zero Knowledge Computation]
 tags: [technology, zk]
 mermaid: true
