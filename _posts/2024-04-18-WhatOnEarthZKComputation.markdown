@@ -66,7 +66,7 @@ So, while zkVM does not imply MPC, the technologies can be synergistic. For inst
 
 ### Which is the Math Behind This?
 
-The mathematical foundation of Zero-Knowledge Virtual Machines (zkVMs) is deeply rooted in the field of cryptography, particularly in the concepts and constructions of zero-knowledge proofs (ZKPs). The ability to perform computations in a zero-knowledge manner within a virtual machine environment requires a complex interplay of algebraic, cryptographic, and computational theories. Here’s an exploration of the key mathematical principles and structures that enable zkVMs to function:
+The mathematical foundation of Zero-Knowledge Virtual Machines is deeply rooted in tthe concepts and constructions of zero-knowledge proofs. The ability to perform computations in a zk manner within a virtual machine environment requires an interplay of algebraic, cryptographic, and computational theories. Here’s an exploration of the key mathematical principles and structures that enable zkVMs to function:
 
 1. **Polynomial Commitments and Interpolations:**
    - **Basics:** Many zkVM implementations utilize polynomial commitments as a core technique. A polynomial commitment scheme allows a prover to commit to a polynomial in such a way that they can later reveal reliable proofs about the polynomial's properties (like evaluations at specific points) without revealing the entire polynomial.
