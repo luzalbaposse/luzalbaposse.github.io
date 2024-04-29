@@ -166,10 +166,6 @@ The FVM is designed to calculate Fibonacci numbers, which are defined by the seq
    - Once the sequence is computed, the zkVM generates a zero-knowledge proof that certifies the correctness of the computed sequence up to \( F(n) \). This proof demonstrates that the computations adhere to the Fibonacci formula without revealing the actual numbers or the final result.
    - Techniques like the Fiat-Shamir heuristic can be employed to convert interactive zero-knowledge proofs into non-interactive ones, enhancing efficiency and practical usability in distributed systems such as blockchains.
 
-### Practical Application
-
-In the zkVM setup for FVM, the entire computation—from initial conditions through each step of the sequence computation, up to the generation of the zero-knowledge proof—is done in a manner that ensures no information about the Fibonacci numbers or their indices is leaked. This setup exemplifies how zkVMs can be used to compute and verify complex sequences and algorithms in a secure and private manner, making them applicable in various fields requiring confidential computational integrity.
-
 # Notes on FFT
 
 ## Fast Fourier Transform (FFT) in Polynomial Evaluation
