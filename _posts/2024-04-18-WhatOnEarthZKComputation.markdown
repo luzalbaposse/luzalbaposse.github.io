@@ -66,7 +66,7 @@ So, while zkVM does not imply MPC, the technologies can be synergistic. For inst
 
 ### Which is the Math Behind This?
 
-The mathematical foundation of Zero-Knowledge Virtual Machines (zkVMs) is deeply rooted in the field of cryptography, particularly in the concepts and constructions of zero-knowledge proofs (ZKPs). The ability to perform computations in a zero-knowledge manner within a virtual machine environment requires a complex interplay of algebraic, cryptographic, and computational theories. Here’s an exploration of the key mathematical principles and structures that enable zkVMs to function:
+The mathematical foundation of Zero-Knowledge Virtual Machines is deeply rooted in tthe concepts and constructions of zero-knowledge proofs. The ability to perform computations in a zk manner within a virtual machine environment requires an interplay of algebraic, cryptographic, and computational theories. Here’s an exploration of the key mathematical principles and structures that enable zkVMs to function:
 
 1. **Polynomial Commitments and Interpolations:**
    - **Basics:** Many zkVM implementations utilize polynomial commitments as a core technique. A polynomial commitment scheme allows a prover to commit to a polynomial in such a way that they can later reveal reliable proofs about the polynomial's properties (like evaluations at specific points) without revealing the entire polynomial.
@@ -165,10 +165,6 @@ The FVM is designed to calculate Fibonacci numbers, which are defined by the seq
 5. **Zero-Knowledge Proofs:**
    - Once the sequence is computed, the zkVM generates a zero-knowledge proof that certifies the correctness of the computed sequence up to \( F(n) \). This proof demonstrates that the computations adhere to the Fibonacci formula without revealing the actual numbers or the final result.
    - Techniques like the Fiat-Shamir heuristic can be employed to convert interactive zero-knowledge proofs into non-interactive ones, enhancing efficiency and practical usability in distributed systems such as blockchains.
-
-### Practical Application
-
-In the zkVM setup for FVM, the entire computation—from initial conditions through each step of the sequence computation, up to the generation of the zero-knowledge proof—is done in a manner that ensures no information about the Fibonacci numbers or their indices is leaked. This setup exemplifies how zkVMs can be used to compute and verify complex sequences and algorithms in a secure and private manner, making them applicable in various fields requiring confidential computational integrity.
 
 # Notes on FFT
 
