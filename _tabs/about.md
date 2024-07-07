@@ -54,3 +54,6 @@ I like to read, a lot. Follow me on [goodreads](https://www.goodreads.com/user/s
 - [Linkedin](https://www.linkedin.com/in/luzalbaposse/)
 - [Twitter](https://www.x.com/luzalbaposse)
 - [Email](mailto:malbaposse@mail.utdt.edu)
+
+## Resume
+- [Download](assets/lib/Resume.pdf)
