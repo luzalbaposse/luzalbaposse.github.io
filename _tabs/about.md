@@ -56,4 +56,4 @@ I like to read, a lot. Follow me on [goodreads](https://www.goodreads.com/user/s
 - [Email](mailto:malbaposse@mail.utdt.edu)
 
 ## Resume
-- [Download](assets/lib/Resume.pdf)
+- [Download](../assets/Resume.pdf)
