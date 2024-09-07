@@ -1,0 +1,222 @@
+---
+title: RiscZero Report
+date: 2024-09-07
+categories: [Reports]
+tags: [blockchain]
+layout: post
+---
+
+# RiscZero
+> So, this report may be more complete than the others. Risc was quite fun to research. Enjoy! : )
+
+## Main Projects
+
+Risc Zero is working in 2 main projects:
+
+- **zkVM**: a virtual machine that let you generate zero knowledge Proof of computational correctness for **Rust Programs.**
+- **Bonsai**: a cloud-based proving service that is scalable, fast and cheap. So you don't have to run the proofs locally and manage your own hardware.
+
+**They have also announced Zeth — a type zero zkEVM.** Their development state is **advanced** and they are already in production.
+
+## Key Features
+
+Apart from the zkVM — others are building similar stuff too, the main differences are:
+
+1. **Bonsai Network**: supports rapid application development and deployment in both cloud and decentralized environments. This enables developers to focus on their application instead of worrying about the complexities of proof orchestration (no need of extra strong GPU).
+2. **Compatibility**: zkVM is compatible with over 70% of the top 1000 Rust crates, allowing developers to build prototypes without knowing cryptography or circuits.
+3. **Gas Fee Savings**: zkVM can **prove hashing 10K bytes through SHA-256**, reducing the computational load on the blockchain and offering gas fee savings.
+4. **Continuations**: continuations technology enables developers to automatically write ZK programs of any length without any special configuration or development complexity.
+
+# zkVM
+
+The RISC Zero zero-knowledge virtual machine (zkVM) enables you to [prove](https://dev.risczero.com/terminology#validity-proof) the correct execution of any Rust code. It allows users to create zero-knowledge applications using existing Rust packages, making the process of building robust, verifiable software applications quicker and easier.
+
+<aside>
+💡 It’s easy to use in terms of development because developers don’t need to learn a new language.
+</aside>
+
+### Components of a zkVM app
+
+The core of a zkVM application is the **guest program**, the part of the application that gets proven.
+
+**- What on earth is a guest program?**
+    
+    This will be rust code that will be executed and proven by the virtual machine. This code is compiled to ELF Binary, the executable format for RISC-V — a UC Berkeley’s reduces instruction set computer arquitecture.
+    
+- The guest program is compiled to an ELF binary.
+- The executor runs the ELF binary and records the session.
+- The prover checks and proves the validity of the session, outputting a receipt.
+- What on earth is a receipt?
+    
+    This will be the resulte of the program along with the Proof that they were produced.
+    
+    In other terms, this will be a succinct validity proof for the execution of your application, so they can be passed to third parties and verified in order to attest to the validity of the output.
+    
+
+# Bonsai: Remote Proving
+
+Bonsai is a service that enables users to generate proofs for their zkVM applications without needing to utilize their personal hardware resources. This service is designed for high performance and is highly parallelized, **distributing the proof-generating workload among a dynamically-sized GPU cluster** to ensure ultra-fast proving times.
+
+- What on earth is dynamically-sized GPU cluster
+    
+    A dynamically-sized GPU cluster refers to a group of GPUs used for parallel processing, where the number of GPUs can be adjusted based on the computational workload or demand. This allows for greater flexibility and efficiency, as resources can be scaled up or down as needed.
+    
+
+Users can specify the specific zkVM application they want to run, as well as the inputs to that program, and Bonsai will return a proof.
+
+Devs can access Bonsai via:
+
+- API key can request proofs from Bonsai via cargo risczero.
+- Bonsai Foundry Template for accessing Bonsai via Ethereum
+- Bonsai SDK for accessing Bonsai from Rust
+- Bonsai REST API for building their own client or accessing Bonsai directly.
+- API Managment
+    
+    It also enforces a number of API limits in order to manage resource allocation. However, these limits are not rigid and can be configured on a per API key basis. This allows users to adjust their limits based on their specific needs and use cases. These limits include the maximum number of proofs that can be generated simultaneously, the max number of cycles that can be proved on Bonsai, the historical count of cycles used by the user's API key, the max number of cycles the user's API key can prove for an individual proof, and the maximum number of workers an individual proof can be parallelized across.
+    
+
+The zkVM and Bonsai, acting as a coprocessor to the smart contract application, enable new Ethereum applications that offload expensive and complex functions to the zkVM. This is possible as STARK proofs generated by zkVM can be wrapped in smaller, faster-to-verify Groth16 SNARKs via Bonsai.
+
+
+# Zeth
+
+Risc Zero announced Ethereum blocks can now be proven in minutes using Zeth, as opposed to the historical hours.
+
+**Zeth** is an open-source ZK block prover for Ethereum which verifies transaction signatures, account states, applies transactions, pays fees, updates the state root and calculates & outputs its hash from within the zkVM.
+
+Zeth can prove an Ethereum block's validity without relying on the validator or sync committees and has been verified to work on real-world blocks from the Ethereum mainnet.
+
+The technology was built using standard Rust crates, the same ones used by popular full nodes which allowed for the first version of Zeth to be available in under 4 weeks. With Bonsai proving service, proofs can be generated cheaply in minutes and can be verified on-chain.
+
+Zeth's performance is increasingly efficient due to the use of continuations, a feature of the ZK framework that allows for quick proof of large computations using clusters of GPUs working in parallel.
+
+The time to generate a proof with Zeth, from end-to-end, is approximately 50 minutes but, with a properly sized cluster, the proof could be generated in around 9 to 12 minutes. Currently, the cost to generate a proof is around $21.72 but with reduced proving steps, the cost could be lowered significantly. This cost is independent of the size of the cluster. 
+
+The cost of on-chain verification is around $5.90 but can be significantly reduced with the use of rollup proofs which can be verified on-chain without using any additional gas. 
+
+- Impact on Light Clients
+    
+    Light clients, small blockchain validators, don't need a full blockchain history to validate its state, thus enabling them to function on devices like smartphones. They use data availability sampling (DAS) for integrity. Offering a more user-friendly approach to blockchain decentralization, light clients require less computational capacity, facilitating network security scalability. However, current light clients lack optimal efficiency, speed, and trust, which Zeth addresses.
+    
+    Zeth mitigates block invalidity risk for light clients by enabling state proof verification instead of block rebuilding. This reduced computational overhead allows ZK light clients to operate even on smartwatches. Ultimately, this approach enhances Ethereum's decentralization and scalability.
+    
+
+# Partners
+
+Risk Zero’s partners use their technology in production
+
+### AltLayer
+
+Are partnering to introduce "on-demand" Zero-Knowledge (ZK) Fraud Proofs to optimistic rollups, aiming to enhance their security and efficiency. This involves integrating cryptographic ZK proofs into optimistic rollups, which are generated only when a challenge arises. Two variants have been implemented, one retaining the bisection protocol but generating a ZK proof for a single disputed instruction, and the other replacing the bisection protocol entirely with a proof of correct execution. This work lays the foundation for incorporating ZK proofs into optimistic rollups, enhancing their security and performance.
+
+### Citrea
+
+Citrea is the Bitcoin’s first ZK rollup, uses RISC Zero to create a Type 2 zkEVM that is fully equivalent to EVM. This enables all EVM developers to build on Bitcoin using RISC Zero's STARK-based proving system.
+
+### Drosera
+
+They are partners, but not sure if Drosera is using RISC Zero. Drosera is a incident response protocol that leverages hidden security intents to contain and mitigate exploits.
+
+### Eclipse
+
+Eclipse Mainnet uses RISC ero to create zk proofs of fraud without intermediate state serialization. 
+
+### Spice AI
+
+Enables a full-stack zkML solution for developers, allowing them to easily build, train, retrain, and share models. Developers can host their trained models on RISC Zero for ML-as-a-service, providing privacy-preserving, trustless inference. The partnership enables a workflow for generating proofs of inference, aiming for the industry's lowest latency and real-time data access.
+
+<aside>
+👉 "We leveraged Spice AI’s enterprise-grade data querying solution for blockchain data to create a frictionless framework to enable developers to build zkML applications." - Roy Rotstein, Software Engineer at RISC Zero.
+</aside>
+
+## Risc Zero vs Nexus
+
+### Technical Comparison
+
+**RISC Zero**:
+
+- **Technology**: emphasizes the development of a zero-knowledge virtual machine (zkVM) that enables verifiable computing using Rust programming language.
+- **Architecture**: utilizes the RISC-V architecture, known for its general-purpose computing instructions.
+- **Proof Generation**: their approach involves generating "receipts" through zero-knowledge proofs to verify computations off-chain, enhancing scalability and security.
+
+<aside>
+💡 Already in production.
+</aside>
+
+**Nexus**:
+
+- **Technology**: introduces another zkVM, a **parallelized** zero-knowledge virtual machine designed for internet-scale applications → it uses parallel processing where multiple computations are executed simultaneously, enhancing its speed and performance.
+- **Specialization**: built for general-purpose verifiable cloud computing, supporting executions on a universal von Neumann RISC-V machine.
+- **Proof Compression**: focuses on proof compression sequences, utilizing zk-SNARKs.
+
+<aside>
+💡 Already in production.
+</aside>
+
+### Business Comparison
+
+**RISC Zero**:
+
+- **Open source**: RISC Zero emphasizes an open-source approach, fostering community development and auditability of applications.
+- **Cost-Efficiency**: It aims to lower development costs by leveraging typical software development cycles and compatibility with Rust crates.
+
+**Nexus**:
+
+- **Innovation**: Nexus highlights innovation in zero-knowledge technologies, with a focus on massively parallelized zkVM for internet-scale applications.
+- **Expertise**: they have a team with a strong background in cryptography, research, and engineering, including individuals with experience in top tech companies and academia.
+
+# Use Cases
+
+## ZK Coprocessors, which enable blockchain applications to reduce gas costs by moving the expensive part logic off-chain
+
+- ZK proofs allow secure verification of off-chain results while maintaining decentralization.
+
+<aside>
+👉 Bonsai ZK Coprocessor Architecture extends on-chain applications with programmable and verifiable off-chain computation.
+</aside>
+
+- Bonsai is not restricted to Ethereum; any blockchain with an execution and consensus layer can harness the Bonsai coprocessor.
+- ZK Coprocessors can potentially reduce costs for any application logic requiring more than 250K gas.
+- DAOs are a good example, with ZK Coprocessors for DAO governance ensuring cheaper off-chain compute and verification of on-chain data.
+- Another use case is Web2 to Web3 verification, such as the Bonfire Wallet which uses Bonsai ZK Coprocessor for off-chain computation.
+
+## Optimistic rollups with ZK Fraud proofs
+
+- Aim: bring Zero Knowledge Proofs (ZK) to the OP Stack.
+- This will allow secure and low latency cross chain communication between L2 and L1, and directly between OP Chains.
+- They intend to expand Zeth to support the Op Stack. By replacing the dispute protocol with ZK proofs, the block's validity can be proven, reducing the challenge window from days to minutes.
+- The current version of Optimism uses Ethereum in two crucial ways:
+    1. The Optimism Sequencer publishes its state to Ethereum.
+    2. The Optimism Chain also publishes its state to Ethereum.
+
+<aside>
+👉 Replacing fault proofs with onchain proof verification using ZK proofs can ensure the consistency of these states.
+</aside>
+
+- The solution involves proving that a given block was generated by applying a given sequence of transactions to a given “parent” block, proving that a given sequence of transactions came from the Optimism Sequencer, and rolling up these proofs into a single proof.
+
+# Further Reading
+
+**RISC Zero**
+
+[](https://dev.risczero.com/proof-system-in-detail.pdf)
+
+[zkVM Overview | RISC Zero Developer Docs](https://dev.risczero.com/api/zkvm/)
+
+**zkVM**
+
+[What is a zkVM application?](https://www.youtube.com/watch?v=mmTp6ZszvuU)
+
+[RISC Zero Architecture: Host-Guest Interaction](https://www.youtube.com/watch?v=dRyzJrEE4Q4)
+
+**ZK Coprocessors**
+
+[「EN」ABCDE：A Deep Dive into ZK Coprocessor and Its Future](https://medium.com/@ABCDE.com/en-abcde-a-deep-dive-into-zk-coprocessor-and-its-future-1d1b3f33f946)
+
+**Partners**
+
+[RISC Zero Case Study | Spice AI](https://spice.ai/cases/risc-zero#:~:text=The%20primary%20application%20of%20RISC,construction%20of%20entire%20Ethereum%20blocks)
+
+[Proving - RISC Zero | Eclipse Documentation](https://docs.eclipse.xyz/how-eclipse-mainnet-works/what-is-eclipse-mainnet/proving-risc-zero)
+
+[Altlayer x Q](https://medium.com/@SlashCrypto/altlayer-x-q-92cffbe12c6f)
