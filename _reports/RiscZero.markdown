@@ -1,8 +1,6 @@
 ---
 title: RiscZero Report
 date: 2024-09-07
-categories: [Reports]
-tags: [blockchain]
 layout: post
 ---
 
