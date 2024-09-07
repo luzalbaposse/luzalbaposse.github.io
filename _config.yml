@@ -136,6 +136,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  reports:
+    output: true
+    permalink: /reports/:title/
 
 defaults:
   - scope:
