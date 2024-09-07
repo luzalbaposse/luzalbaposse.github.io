@@ -45,9 +45,7 @@ The SP1 project is ongoing, with much more development anticipated. In the spiri
 
 SP1 also incorporates a unique "shared challenges" method, which allows large computations to be divided into manageable shards. These shards are then interconnected seamlessly to form an inclusive global proof.
 
-<aside>
-<img src="/icons/exclamation-mark_gray.svg" alt="/icons/exclamation-mark_gray.svg" width="40px" /> Unlike other zkVMs that rely on closed-source constraint logic, SP1 is designed from the ground up to be modular, allowing for customization.
-</aside>
+ Unlike other zkVMs that rely on closed-source constraint logic, SP1 is designed from the ground up to be modular, allowing for customization.
 
 It can generate and verify proofs for Rust programs that have been compiled to RISC-V. SP1 supports proving of programs of arbitrary length by using a unique "shared challenges" argument that allows the prover to shard a long computation into small shards, and then generate a global proof that these shards are properly connected together.
 
