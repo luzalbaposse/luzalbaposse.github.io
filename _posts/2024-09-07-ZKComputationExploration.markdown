@@ -1,6 +1,6 @@
 ---
 title: Zero Knowledge Computation... Wait, What?
-date: 2024-04-29 10:30:00 +0200
+date: 2024-09-07 10:30:00 +0200
 categories: [Zero Knowledge, Zero Knowledge Computation]
 tags: [technology, zk]
 mermaid: true
