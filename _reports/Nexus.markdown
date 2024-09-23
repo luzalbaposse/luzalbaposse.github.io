@@ -108,4 +108,3 @@ They don't provide much information about their partners on their website or Twi
 # Further Reading
 
 - [Nexus: Enabling General Purpose Verifiable Cloud Computing](https://www.coinlive.com/news/Nexus-Enabling-General-Purpose-Verifiable-Cloud-Computing)
-- [Notes on Call w/Daniel Marin](https://www.notion.so/Notes-on-Call-w-Daniel-Marin-21757f9b3f8c4a6bba26a76d0037010a?pvs=21)
