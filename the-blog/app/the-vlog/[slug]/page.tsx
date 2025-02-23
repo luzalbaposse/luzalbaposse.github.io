@@ -4,7 +4,7 @@ import { compileMDX } from "next-mdx-remote/rsc"
 import dynamic from 'next/dynamic'
 
 const Mermaid = dynamic(
-  () => import('@/app/components/mermaid'),
+  () => import('@/app/components/mermaid').then(mod => mod.default),
   { ssr: false }
 )
 
