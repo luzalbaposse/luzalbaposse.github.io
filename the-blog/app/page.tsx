@@ -57,6 +57,9 @@ export default async function Page() {
           <a href="/the-videos" className="text-[#734F4F] hover:opacity-80">
             The Videos.
           </a>
+          <a href="/the-now" className="text-[#734F4F] hover:opacity-80">
+            The Now.
+          </a>
         </nav>
       </header>
 
