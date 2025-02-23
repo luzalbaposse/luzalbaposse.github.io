@@ -1,10 +1,10 @@
 ---
-title: Proof of Personhood and Its Applications in Digital Identity
+title: Proof of Personhood
 date: 11. November 2023
 duration: 15 Min
 category: WEB3
-excerpt: A person communicates with their bank to obtain their first credit card, buys tickets to a concert, or sets up their first smartphone—all from the comfort of home. At first glance, there appears to be little connection between these three seemingly disparate activities. However, upon closer inspection, a common thread emerges that links these significant moments in life, identity.
-coverImage: 
+excerpt: A person communicates with their bank to obtain their first credit card, buys tickets to a concert, or sets up their first smartphone—all from the comfort of home. 
+coverImage: proof.png
 mermaid: true
 math: true
 ---

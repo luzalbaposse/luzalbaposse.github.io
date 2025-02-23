@@ -106,10 +106,11 @@ export default async function Page() {
                   {post.coverImage && (
                     <div className="aspect-[4/3] relative overflow-hidden">
                       <Image
-                        src={post.coverImage || "/placeholder.svg"}
+                        src={post.coverImage.startsWith('/') ? post.coverImage : `/${post.coverImage}`}
                         alt={post.title}
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-300"
+                        unoptimized={true}
                       />
                     </div>
                   )}
