@@ -26,7 +26,7 @@ export default function BlogLayout({ post }: { post: BlogPost }) {
     <div className={`min-h-screen bg-white ${openSans.className}`}>
       {/* Header */}
       <header className="container mx-auto px-4 py-6 flex justify-between items-center">
-        <div className={`text-[#734F4F] text-2xl font-bold ${oi.className}`}>Lu's</div>
+        <div className={`text-[#734F4F] text-2xl font-bold ${oi.className}`}>Lu&apos;s</div>
         <nav className="space-x-6">
           <a href="/" className="text-[#734F4F] hover:opacity-80">
             The Vlog.
@@ -71,7 +71,7 @@ export default function BlogLayout({ post }: { post: BlogPost }) {
         {/* Footer */}
         <footer className="bg-[#734F4F] py-8 px-4 mt-12">
           <div className="w-full px-4 flex justify-between items-center">
-            <div className={`text-white text-2xl font-bold ${oi.className}`}>Lu's</div>
+            <div className={`text-white text-2xl font-bold ${oi.className}`}>Lu&apos;s</div>
             <div className="text-white text-sm">© Made by Lu</div>
           </div>
         </footer>
