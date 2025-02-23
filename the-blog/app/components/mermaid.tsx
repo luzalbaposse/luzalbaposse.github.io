@@ -3,7 +3,10 @@
 import { useEffect, useRef } from 'react'
 import mermaid from 'mermaid'
 
-export default function Mermaid({ chart }: { chart: string }) {
+interface MermaidProps{
+  chart: string
+}
+export const Mermaid = ({ chart }: MermaidProps) => {
   const containerRef = useRef<HTMLDivElement>(null)
   
   useEffect(() => {

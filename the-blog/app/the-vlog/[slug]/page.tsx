@@ -19,8 +19,8 @@ export default async function BlogPost({
     source: post.content as string,
     components: {
       code: (props) => (
-        props.className === 'language-mermaid' 
-          ? <Mermaid chart={props.children} />
+        props.className === 'language-mermaid'
+          ? <Mermaid chart={String(props.children)} />
           : <code {...props} />
       )
     }
