@@ -34,6 +34,9 @@ export default function BlogLayout({ post }: { post: BlogPost }) {
           <a href="/the-videos" className="text-[#734F4F] hover:opacity-80">
             The Videos.
           </a>
+          <a href="/the-now" className="text-[#734F4F] hover:opacity-80">
+            The Now.
+          </a>
         </nav>
       </header>
 
@@ -43,15 +46,15 @@ export default function BlogLayout({ post }: { post: BlogPost }) {
             <h1 className={`text-[#734F4F] text-6xl md:text-7xl font-bold mb-6 ${oi.className}`}>{post.title}</h1>
             <p className="text-[#734F4F]/80 text-lg mb-8">{post.excerpt}</p>
           </div>
-
           {post.coverImage && (
             <div className="mb-12">
               <Image
-                src={post.coverImage || "/placeholder.svg"}
+                src={post.coverImage.startsWith('/') ? post.coverImage : `/${post.coverImage}`}
                 alt={post.title}
                 width={1200}
                 height={600}
-                className="w-full rounded-lg"
+                className="w-full overflow-hidden border-2 border-[#734F4F] rounded-lg"
+                unoptimized={true}
               />
             </div>
           )}

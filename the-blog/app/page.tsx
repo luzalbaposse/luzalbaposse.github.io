@@ -94,25 +94,26 @@ export default async function Page() {
         {/* Blog Grid */}
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           {posts.map((post) => (
-            <Link href={`/the-vlog/${post.slug}`} key={post.slug}>
+            <Link href={`/the-blog/${post.slug}`} key={post.slug}>
               <article className="group cursor-pointer border-2 border-[#734F4F] p-6 rounded-lg">
                 <div className="mb-4">
-                  <div className="flex justify-between items-center mb-2">
+                  {post.coverImage && (
+                    <div className="aspect-[4/3] relative overflow-hidden border-2 border-[#734F4F] rounded-lg">
+                      <Image
+                        src={post.coverImage.startsWith('/') ? post.coverImage : `/${post.coverImage}`}
+                        alt={post.title}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-300"
+                        unoptimized={true}
+                      />
+                    </div>
+                  )}
+                   <div className="flex justify-between items-center mb-2 mt-5">
                     <span className="text-[#734F4F] text-sm">{post.date}</span>
                     <span className="text-[#734F4F] text-sm border border-[#734F4F] px-2 py-0.5 rounded-full">
                       {post.category}
                     </span>
                   </div>
-                  {post.coverImage && (
-                    <div className="aspect-[4/3] relative overflow-hidden">
-                      <Image
-                        src={post.coverImage || "/placeholder.svg"}
-                        alt={post.title}
-                        fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-300"
-                      />
-                    </div>
-                  )}
                 </div>
                 <h3 className={`text-[#734F4F] text-2xl font-bold mb-4 ${oi.className}`}>{post.title}</h3>
                 <p className="text-[#734F4F]/80 mb-4">{post.excerpt}</p>
