@@ -16,7 +16,7 @@ export default async function BlogPost({
   const post = await getBlogPost(params.slug)
   
   const { content } = await compileMDX({
-    source: post.content,
+    source: post.content as string,
     components: {
       code: (props) => (
         props.className === 'language-mermaid' 
