@@ -1,10 +1,10 @@
 ---
 title: Proof of Personhood
-date: 11. November 2023
-duration: 15 Min
+date: "2023-11-11"
+duration: 15 
 category: WEB3
 excerpt: A person communicates with their bank to obtain their first credit card, buys tickets to a concert, or sets up their first smartphone—all from the comfort of home. 
-coverImage: proof.png
+coverImage: "proof.png"
 mermaid: true
 math: true
 ---
