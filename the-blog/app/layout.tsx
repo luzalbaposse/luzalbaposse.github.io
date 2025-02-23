@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Head from 'next/head';
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -14,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "The Vlog.",
+  title: "The Blog.",
   description: "Just another internet place to read about philosophy, tech things and reflextions.",
 };
 
@@ -24,12 +25,31 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
+    <>
+      <Head>
+        <title>The Blog.</title>
+        <meta name="description" content="Just another internet place to read about philosophy, tech things and reflextions." />
+        
+        {/* Open Graph Tags */}
+        <meta property="og:title" content="The Blog." />
+        <meta property="og:description" content="Just another internet place to read about philosophy, tech things and reflextions." />
+        <meta property="og:image" content="/the-blog.png" />
+        <meta property="og:url" content="https://the-vlog.com" />
+        <meta property="og:type" content="website" />
+
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="The Blog." />
+        <meta name="twitter:description" content="Just another internet place to read about philosophy, tech things and reflextions." />
+        <meta name="twitter:image" content="/the-blog.png" />
+      </Head>
+      <html lang="en">
+        <body
+          className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        >
+          {children}
+        </body>
+      </html>
+    </>
   );
 }
