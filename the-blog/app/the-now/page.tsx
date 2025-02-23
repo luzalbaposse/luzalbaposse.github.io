@@ -63,7 +63,7 @@ export default async function Page() {
         Learning to Do Research
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-        I’m working at <a href='https://defi.sucks'  className='underline'>defi.sucks</a>, figuring out how to do research. Ethereum is my subject. The goal: make it better.
+        Working in crypto, figuring out how to do research. Ethereum is my subject. The goal: make it better.
         </p>
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Studying        
