@@ -29,7 +29,7 @@ export default function BlogLayout({ post }: { post: BlogPost }) {
         <div className={`text-[#734F4F] text-2xl font-bold ${oi.className}`}>Lu&apos;s</div>
         <nav className="space-x-6">
           <a href="/" className="text-[#734F4F] hover:opacity-80">
-            The Vlog.
+            The Blog.
           </a>
           <a href="/the-videos" className="text-[#734F4F] hover:opacity-80">
             The Videos.

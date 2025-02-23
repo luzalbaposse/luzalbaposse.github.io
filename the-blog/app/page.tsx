@@ -52,7 +52,7 @@ export default async function Page() {
         <div className={`text-[#734F4F] text-2xl font-bold ${oi.className}`}>Lu's</div>
         <nav className="space-x-6">
           <a href="/" className="text-[#734F4F] hover:opacity-80 font-bold">
-            The Vlog.
+            The Blog.
           </a>
           <a href="/the-videos" className="text-[#734F4F] hover:opacity-80">
             The Videos.
@@ -63,7 +63,7 @@ export default async function Page() {
       <main className="container mx-auto px-4">
         {/* Blog Title */}
         <h1 className={`text-[#734F4F] text-7xl md:text-[8.2rem] font-bold mb-12 mt-10 ${oi.className}`}>
-          THE VLOG.
+          THE BLOG.
         </h1>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem] font-bold mb-12 ${openSans.className}`}>
         Hey! I'm Luz 😁 This is my blog, just brain dumps of things I'm interested in. I sometimes document stuff in videos too, so if you want to see me embarrassed, click on The Videos section. Cheers!
@@ -91,7 +91,7 @@ export default async function Page() {
         {/* Blog Grid */}
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           {posts.map((post) => (
-            <Link href={`/the-vlog/${post.slug}`} key={post.slug}>
+            <Link href={`/the-blog/${post.slug}`} key={post.slug}>
               <article className="group cursor-pointer border-2 border-[#734F4F] p-6 rounded-lg">
                 <div className="mb-4">
                   <div className="flex justify-between items-center mb-2">

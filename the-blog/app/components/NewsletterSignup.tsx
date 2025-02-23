@@ -45,7 +45,7 @@ export default function NewsletterSignup() {
         <div className="bg-[#734F4F] p-8 md:p-16 rounded-t-lg">
             <div className="max-w-2xl mx-auto text-center">
                 <h2 className={`text-white text-4xl md:text-6xl font-bold mb-8 leading-tight ${oi.className}`}>
-                    THE VLOG ON YOUR EMAIL
+                    THE BLOG ON YOUR EMAIL
                 </h2>
                 <form onSubmit={handleSubmit} className="flex gap-4 max-w-xl mx-auto">
                     <Input
