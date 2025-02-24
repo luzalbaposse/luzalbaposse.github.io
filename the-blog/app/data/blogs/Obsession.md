@@ -21,4 +21,4 @@ Passion is a steady flame. It fuels persistence, even on the hardest days, but n
 
 When you learn to love the process, the result stops being the only thing that matters. You no longer seek proof that you are enough. You simply trust you and move forward with confidence in what you do. Passionate people make things better, not just for themselves, but for the world around them. Passion leads to excellence—not through exhaustion, but through clarity, energy, and joy.
 
-Follow your passion.
+You don't need to constantly be in a hard time to be excellent. Follow your passion.
