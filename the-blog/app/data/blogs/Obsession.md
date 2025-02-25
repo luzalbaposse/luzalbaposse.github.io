@@ -1,8 +1,8 @@
 ---
 title: "Obsession"
-date: "2025-02-25"
+date: "2025-02-24"
 duration: 10
-category: LIFE
+category: PHILOSOPHY
 excerpt: "Last night, you slept less than five hours. You woke up with the same thought lodged in your mind, like a rusted hook buried deep in your flesh. That’s not passion. That’s obsession. "
 coverImage: "obsession.png"
 mermaid: true
