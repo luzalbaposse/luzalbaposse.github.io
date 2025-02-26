@@ -1,9 +1,9 @@
 ---
-title: Proof of Personhood
+title: PoP
 date: "2023-11-11"
 duration: 15 
 category: WEB3
-excerpt: A person communicates with their bank to obtain their first credit card, buys tickets to a concert, or sets up their first smartphone—all from the comfort of home. 
+excerpt: Opening a bank account, buying concert tickets, or setting up a smartphone—small acts, yet they mark a person’s entry into the modern world. All done from home.
 coverImage: "proof.png"
 mermaid: true
 math: true

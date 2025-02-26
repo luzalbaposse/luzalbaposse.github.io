@@ -3,7 +3,7 @@ title: "Obsession"
 date: "2025-02-24"
 duration: 10
 category: PHILOSOPHY
-excerpt: "Last night, you slept less than five hours. You woke up with the same thought lodged in your mind, like a rusted hook buried deep in your flesh. That’s not passion. That’s obsession. "
+excerpt: "You barely slept last night—less than five hours. That same thought clung to your mind like a rusted hook buried deep in your flesh. Not passion. Obsession."
 coverImage: "obsession.png"
 mermaid: true
 math: true

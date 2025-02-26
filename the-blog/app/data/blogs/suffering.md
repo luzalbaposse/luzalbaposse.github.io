@@ -3,7 +3,7 @@ title: "Suffer for what"
 date: "2025-02-25"
 duration: 10
 category: PHILOSOPHY
-excerpt: "You are told to run the extra mile. [...] But what if the source of all that energy is just the dark, dark ego of being better than others? Does it really make sense?"
+excerpt: "You are told to run the extra mile. To stay awake and finish your shit. But what if all that drive comes from the dark, dark ego of being better than others? Is it really worth it?"
 coverImage: "suffering.png"
 mermaid: true
 math: true
