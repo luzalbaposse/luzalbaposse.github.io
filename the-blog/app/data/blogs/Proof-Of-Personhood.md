@@ -1,7 +1,7 @@
 ---
 title: PoP
 date: "2023-11-11"
-duration: 15 
+duration: 15 min
 category: WEB3
 excerpt: Opening a bank account, buying concert tickets, or setting up a smartphone—small acts, yet they mark a person’s entry into the modern world. All done from home.
 coverImage: "proof.png"

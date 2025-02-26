@@ -1,7 +1,7 @@
 ---
 title: "Suffer for what"
 date: "2025-02-25"
-duration: 10
+duration: 10 min
 category: PHILOSOPHY
 excerpt: "You are told to run the extra mile. To stay awake and finish your shit. But what if all that drive comes from the dark, dark ego of being better than others? Is it really worth it?"
 coverImage: "suffering.png"

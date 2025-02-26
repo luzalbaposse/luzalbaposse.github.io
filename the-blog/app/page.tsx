@@ -93,7 +93,7 @@ export default async function Page() {
 
         {/* Blog Grid */}
         <div className="grid md:grid-cols-3 gap-8 mb-12">
-          {posts.map((post) => (
+          {posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()).map((post) => (
             <Link href={`/articles/${post.slug}`} key={post.slug}>
               <article className="group cursor-pointer border-2 border-[#734F4F] p-6 rounded-lg">
                 <div className="mb-4">

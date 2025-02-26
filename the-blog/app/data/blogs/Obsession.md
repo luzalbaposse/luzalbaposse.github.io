@@ -1,7 +1,7 @@
 ---
 title: "Obsession"
 date: "2025-02-24"
-duration: 10
+duration: 10 min
 category: PHILOSOPHY
 excerpt: "You barely slept last night—less than five hours. That same thought clung to your mind like a rusted hook buried deep in your flesh. Not passion. Obsession."
 coverImage: "obsession.png"

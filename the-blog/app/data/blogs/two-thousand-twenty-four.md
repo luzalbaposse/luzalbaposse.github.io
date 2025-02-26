@@ -1,7 +1,7 @@
 ---
 title: "2024"
 date: "2024-12-31"
-duration: 5
+duration: 5 min
 category: LIFE
 excerpt: "Every year, I say the same: I love recaps. This one brought incredible experiences—and, of course, a few not-so-great ones. This is 2024 learnings."
 coverImage: "2024.png"
