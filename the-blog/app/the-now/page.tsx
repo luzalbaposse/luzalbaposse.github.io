@@ -47,7 +47,7 @@ export default async function Page() {
         </h1>
 
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 ${openSans.className} `}>
-        (Updated: February 2025, from Switzerland.)
+        (Updated: August 2025, from Buenos Aires.)
         </p>
         <div className="mb-12 overflow-hidden border-2 border-[#734F4F] rounded-lg">
           <Image
@@ -62,42 +62,49 @@ export default async function Page() {
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Learning to Do Research
         </h2>
-        <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-        Working in crypto, figuring out how to do research. Ethereum is my subject. The goal: make it better.
-        </p>
+   <p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
+Working in crypto, figuring out how to do research. Ethereum is my subject. The goal: make it better. Currently writing my degree's final project on <span className="italic">Verifiable Journalism</span>, using zero-knowledge proofs to authenticate images in hostile media environments.
+</p>
+
+        
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Studying        
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-        <a  className='underline' href='https://www.utdt.edu/ver_contenido.php?id_contenido=19866&id_item_menu=31534'> Bs. in Digital Technology</a> at <a  className='underline' href='https://www.utdt.edu/'>UTDT</a>. On exchange at <a  className='underline' href='https://www.unisg.ch/de/'>University of St. Gallen</a>, studying in the Bs. in Computer Science.
+        <a  className='underline' href='https://www.utdt.edu/ver_contenido.php?id_contenido=19866&id_item_menu=31534'> Bs. in Digital Technology</a> at <a  className='underline' href='https://www.utdt.edu/'>UTDT</a>. Did an exchange at <a  className='underline' href='https://www.unisg.ch/de/'>University of St. Gallen</a>, in the Bs. in Computer Science.
         </p>
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Writing & Filmmaking        
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-        I enjoy documenting my thoughts. That’s why this blog exists. That’s why I record. Learning filmmaking in my free time—how to tell stories in frames instead of words.
+        I enjoy documenting my thoughts. That’s why this blog exists. That’s why I record. Learning filmmaking in my free time: how to tell stories in frames instead of words.
         </p>
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Place        
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-        From Argentina. Living in Switzerland. I move, I watch, I write. I hike when I need space. I code for fun.
+        From the North of Argentina. Living in Buenos Aires. I move, I watch, I write. I hike when I need space. I code for fun.
         </p>
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Consuming        
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
         📖 Brief Answers to Big Questions — Stephen Hawking <br></br>
-🎥 The Gentlemen — Watching with my boyfriend<br></br>
+🎥 Triangle of Sadness — I recommend<br></br>
 🎵 Toe — on repeat       <br></br>
  </p>
+        <h2 className="text-[#734F4F] text-xl md:text-[1rem] oi.className">Thinking About</h2>
+<p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
+How we govern blockchains like we govern cities. Whether Ethereum should become more opinionated. What makes knowledge “durable.” 
+</p>
+
 
 
  <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Questioning        
         </h2>
         <p className={`text-[#734F4F] text-[1-rem] md:text-[1rem]  mb-12 ${openSans.className}`}>
-      Recently I read this <a className='underline' href='https://maraoz.com/what-do-you-optimize-for/'>blog post</a> from <a  className='underline' href='https://x.com/maraoz'>maraoz</a> and I can't stop asking myself: What are you optimizing for?
+      Recently I read this <a className='underline' href='https://maraoz.com/what-do-you-optimize-for/'>blog post</a> from <a  className='underline' href='https://x.com/maraoz'>maraoz</a> and I can't stop asking myself: What am I optimizing for?
  </p>
 
 
