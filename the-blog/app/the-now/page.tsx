@@ -62,11 +62,9 @@ export default async function Page() {
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Learning to Do Research
         </h2>
-   <p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
-Working in crypto, figuring out how to do research. Ethereum is my subject. The goal: make it better. Currently writing my degree's final project on <span className="italic">Verifiable Journalism</span>, using zero-knowledge proofs to authenticate images in hostile media environments.
-</p>
-
-        
+        <p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
+        Working in crypto, figuring out how to do research. Ethereum is my subject. The goal: make it better. Currently writing my degree's final project on <span className="italic">Verifiable Journalism</span>, using zero-knowledge proofs to authenticate images in hostile media environments.
+        </p>
         <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>
         Studying        
         </h2>
@@ -93,10 +91,10 @@ Working in crypto, figuring out how to do research. Ethereum is my subject. The 
 🎥 Triangle of Sadness — I recommend<br></br>
 🎵 Toe — on repeat       <br></br>
  </p>
-        <h2 className="text-[#734F4F] text-xl md:text-[1rem] oi.className">Thinking About</h2>
-<p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
-How we govern blockchains like we govern cities. Whether Ethereum should become more opinionated. What makes knowledge “durable.” 
-</p>
+      <h2 className={`text-[#734F4F] text-xl md:text-[1rem]  ${oi.className}`}>Thinking About</h2>
+      <p className="text-[#734F4F] text-[1-rem] md:text-[1rem] mb-12 openSans.className">
+      How we govern blockchains like we govern cities. Whether Ethereum should become more opinionated. What makes knowledge “durable.” 
+      </p>
 
 
 
